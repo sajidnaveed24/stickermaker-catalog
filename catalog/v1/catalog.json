@@ -1,0 +1,1787 @@
+{
+ "format": "stickermaker-catalog",
+ "version": 1,
+ "generated": "2026-10-04T18:51:32.627Z",
+ "packs": [
+  {
+   "id": "fluent-animals",
+   "name": "Cute Animals",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "ANIMALS",
+   "credit": "Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "version": "d2788d5e8364",
+   "sizeBytes": 385886,
+   "tray": "packs/fluent-animals/d2788d5e8364/tray.png",
+   "stickers": [
+    {
+     "file": "packs/fluent-animals/d2788d5e8364/01.webp",
+     "thumb": "packs/fluent-animals/d2788d5e8364/thumbs/01.webp",
+     "name": "dog face",
+     "emoji": [
+      "🐶"
+     ]
+    },
+    {
+     "file": "packs/fluent-animals/d2788d5e8364/02.webp",
+     "thumb": "packs/fluent-animals/d2788d5e8364/thumbs/02.webp",
+     "name": "cat face",
+     "emoji": [
+      "🐱"
+     ]
+    },
+    {
+     "file": "packs/fluent-animals/d2788d5e8364/03.webp",
+     "thumb": "packs/fluent-animals/d2788d5e8364/thumbs/03.webp",
+     "name": "panda",
+     "emoji": [
+      "🐼"
+     ]
+    },
+    {
+     "file": "packs/fluent-animals/d2788d5e8364/04.webp",
+     "thumb": "packs/fluent-animals/d2788d5e8364/thumbs/04.webp",
+     "name": "fox",
+     "emoji": [
+      "🦊"
+     ]
+    },
+    {
+     "file": "packs/fluent-animals/d2788d5e8364/05.webp",
+     "thumb": "packs/fluent-animals/d2788d5e8364/thumbs/05.webp",
+     "name": "lion",
+     "emoji": [
+      "🦁"
+     ]
+    },
+    {
+     "file": "packs/fluent-animals/d2788d5e8364/06.webp",
+     "thumb": "packs/fluent-animals/d2788d5e8364/thumbs/06.webp",
+     "name": "unicorn",
+     "emoji": [
+      "🦄"
+     ]
+    },
+    {
+     "file": "packs/fluent-animals/d2788d5e8364/07.webp",
+     "thumb": "packs/fluent-animals/d2788d5e8364/thumbs/07.webp",
+     "name": "rabbit face",
+     "emoji": [
+      "🐰"
+     ]
+    },
+    {
+     "file": "packs/fluent-animals/d2788d5e8364/08.webp",
+     "thumb": "packs/fluent-animals/d2788d5e8364/thumbs/08.webp",
+     "name": "bear",
+     "emoji": [
+      "🐻"
+     ]
+    },
+    {
+     "file": "packs/fluent-animals/d2788d5e8364/09.webp",
+     "thumb": "packs/fluent-animals/d2788d5e8364/thumbs/09.webp",
+     "name": "koala",
+     "emoji": [
+      "🐨"
+     ]
+    },
+    {
+     "file": "packs/fluent-animals/d2788d5e8364/10.webp",
+     "thumb": "packs/fluent-animals/d2788d5e8364/thumbs/10.webp",
+     "name": "penguin",
+     "emoji": [
+      "🐧"
+     ]
+    },
+    {
+     "file": "packs/fluent-animals/d2788d5e8364/11.webp",
+     "thumb": "packs/fluent-animals/d2788d5e8364/thumbs/11.webp",
+     "name": "frog",
+     "emoji": [
+      "🐸"
+     ]
+    },
+    {
+     "file": "packs/fluent-animals/d2788d5e8364/12.webp",
+     "thumb": "packs/fluent-animals/d2788d5e8364/thumbs/12.webp",
+     "name": "tiger face",
+     "emoji": [
+      "🐯"
+     ]
+    },
+    {
+     "file": "packs/fluent-animals/d2788d5e8364/13.webp",
+     "thumb": "packs/fluent-animals/d2788d5e8364/thumbs/13.webp",
+     "name": "pig face",
+     "emoji": [
+      "🐷"
+     ]
+    },
+    {
+     "file": "packs/fluent-animals/d2788d5e8364/14.webp",
+     "thumb": "packs/fluent-animals/d2788d5e8364/thumbs/14.webp",
+     "name": "hatching chick",
+     "emoji": [
+      "🐣"
+     ]
+    },
+    {
+     "file": "packs/fluent-animals/d2788d5e8364/15.webp",
+     "thumb": "packs/fluent-animals/d2788d5e8364/thumbs/15.webp",
+     "name": "owl",
+     "emoji": [
+      "🦉"
+     ]
+    },
+    {
+     "file": "packs/fluent-animals/d2788d5e8364/16.webp",
+     "thumb": "packs/fluent-animals/d2788d5e8364/thumbs/16.webp",
+     "name": "hamster",
+     "emoji": [
+      "🐹"
+     ]
+    },
+    {
+     "file": "packs/fluent-animals/d2788d5e8364/17.webp",
+     "thumb": "packs/fluent-animals/d2788d5e8364/thumbs/17.webp",
+     "name": "mouse face",
+     "emoji": [
+      "🐭"
+     ]
+    },
+    {
+     "file": "packs/fluent-animals/d2788d5e8364/18.webp",
+     "thumb": "packs/fluent-animals/d2788d5e8364/thumbs/18.webp",
+     "name": "cow face",
+     "emoji": [
+      "🐮"
+     ]
+    },
+    {
+     "file": "packs/fluent-animals/d2788d5e8364/19.webp",
+     "thumb": "packs/fluent-animals/d2788d5e8364/thumbs/19.webp",
+     "name": "octopus",
+     "emoji": [
+      "🐙"
+     ]
+    },
+    {
+     "file": "packs/fluent-animals/d2788d5e8364/20.webp",
+     "thumb": "packs/fluent-animals/d2788d5e8364/thumbs/20.webp",
+     "name": "turtle",
+     "emoji": [
+      "🐢"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fluent-birthday",
+   "name": "Happy Birthday",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "BIRTHDAY",
+   "credit": "Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "version": "7c95b2ea9581",
+   "sizeBytes": 272858,
+   "tray": "packs/fluent-birthday/7c95b2ea9581/tray.png",
+   "stickers": [
+    {
+     "file": "packs/fluent-birthday/7c95b2ea9581/01.webp",
+     "thumb": "packs/fluent-birthday/7c95b2ea9581/thumbs/01.webp",
+     "name": "birthday cake",
+     "emoji": [
+      "🎂"
+     ]
+    },
+    {
+     "file": "packs/fluent-birthday/7c95b2ea9581/02.webp",
+     "thumb": "packs/fluent-birthday/7c95b2ea9581/thumbs/02.webp",
+     "name": "party popper",
+     "emoji": [
+      "🎉"
+     ]
+    },
+    {
+     "file": "packs/fluent-birthday/7c95b2ea9581/03.webp",
+     "thumb": "packs/fluent-birthday/7c95b2ea9581/thumbs/03.webp",
+     "name": "balloon",
+     "emoji": [
+      "🎈"
+     ]
+    },
+    {
+     "file": "packs/fluent-birthday/7c95b2ea9581/04.webp",
+     "thumb": "packs/fluent-birthday/7c95b2ea9581/thumbs/04.webp",
+     "name": "wrapped gift",
+     "emoji": [
+      "🎁"
+     ]
+    },
+    {
+     "file": "packs/fluent-birthday/7c95b2ea9581/05.webp",
+     "thumb": "packs/fluent-birthday/7c95b2ea9581/thumbs/05.webp",
+     "name": "confetti ball",
+     "emoji": [
+      "🎊"
+     ]
+    },
+    {
+     "file": "packs/fluent-birthday/7c95b2ea9581/06.webp",
+     "thumb": "packs/fluent-birthday/7c95b2ea9581/thumbs/06.webp",
+     "name": "partying face",
+     "emoji": [
+      "🥳"
+     ]
+    },
+    {
+     "file": "packs/fluent-birthday/7c95b2ea9581/07.webp",
+     "thumb": "packs/fluent-birthday/7c95b2ea9581/thumbs/07.webp",
+     "name": "shortcake",
+     "emoji": [
+      "🍰"
+     ]
+    },
+    {
+     "file": "packs/fluent-birthday/7c95b2ea9581/08.webp",
+     "thumb": "packs/fluent-birthday/7c95b2ea9581/thumbs/08.webp",
+     "name": "clinking glasses",
+     "emoji": [
+      "🥂"
+     ]
+    },
+    {
+     "file": "packs/fluent-birthday/7c95b2ea9581/09.webp",
+     "thumb": "packs/fluent-birthday/7c95b2ea9581/thumbs/09.webp",
+     "name": "bottle with popping cork",
+     "emoji": [
+      "🍾"
+     ]
+    },
+    {
+     "file": "packs/fluent-birthday/7c95b2ea9581/10.webp",
+     "thumb": "packs/fluent-birthday/7c95b2ea9581/thumbs/10.webp",
+     "name": "cupcake",
+     "emoji": [
+      "🧁"
+     ]
+    },
+    {
+     "file": "packs/fluent-birthday/7c95b2ea9581/11.webp",
+     "thumb": "packs/fluent-birthday/7c95b2ea9581/thumbs/11.webp",
+     "name": "ribbon",
+     "emoji": [
+      "🎀"
+     ]
+    },
+    {
+     "file": "packs/fluent-birthday/7c95b2ea9581/12.webp",
+     "thumb": "packs/fluent-birthday/7c95b2ea9581/thumbs/12.webp",
+     "name": "sparkler",
+     "emoji": [
+      "🎇"
+     ]
+    },
+    {
+     "file": "packs/fluent-birthday/7c95b2ea9581/13.webp",
+     "thumb": "packs/fluent-birthday/7c95b2ea9581/thumbs/13.webp",
+     "name": "crown",
+     "emoji": [
+      "👑"
+     ]
+    },
+    {
+     "file": "packs/fluent-birthday/7c95b2ea9581/14.webp",
+     "thumb": "packs/fluent-birthday/7c95b2ea9581/thumbs/14.webp",
+     "name": "candle",
+     "emoji": [
+      "🕯️"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fluent-festivals",
+   "name": "Celebrations",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "FESTIVALS",
+   "credit": "Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "version": "73862820e58b",
+   "sizeBytes": 303580,
+   "tray": "packs/fluent-festivals/73862820e58b/tray.png",
+   "stickers": [
+    {
+     "file": "packs/fluent-festivals/73862820e58b/01.webp",
+     "thumb": "packs/fluent-festivals/73862820e58b/thumbs/01.webp",
+     "name": "Christmas tree",
+     "emoji": [
+      "🎄"
+     ]
+    },
+    {
+     "file": "packs/fluent-festivals/73862820e58b/02.webp",
+     "thumb": "packs/fluent-festivals/73862820e58b/thumbs/02.webp",
+     "name": "jack-o-lantern",
+     "emoji": [
+      "🎃"
+     ]
+    },
+    {
+     "file": "packs/fluent-festivals/73862820e58b/03.webp",
+     "thumb": "packs/fluent-festivals/73862820e58b/thumbs/03.webp",
+     "name": "fireworks",
+     "emoji": [
+      "🎆"
+     ]
+    },
+    {
+     "file": "packs/fluent-festivals/73862820e58b/04.webp",
+     "thumb": "packs/fluent-festivals/73862820e58b/thumbs/04.webp",
+     "name": "sparkler",
+     "emoji": [
+      "🎇"
+     ]
+    },
+    {
+     "file": "packs/fluent-festivals/73862820e58b/05.webp",
+     "thumb": "packs/fluent-festivals/73862820e58b/thumbs/05.webp",
+     "name": "star and crescent",
+     "emoji": [
+      "☪️"
+     ]
+    },
+    {
+     "file": "packs/fluent-festivals/73862820e58b/06.webp",
+     "thumb": "packs/fluent-festivals/73862820e58b/thumbs/06.webp",
+     "name": "red paper lantern",
+     "emoji": [
+      "🏮"
+     ]
+    },
+    {
+     "file": "packs/fluent-festivals/73862820e58b/07.webp",
+     "thumb": "packs/fluent-festivals/73862820e58b/thumbs/07.webp",
+     "name": "diya lamp",
+     "emoji": [
+      "🪔"
+     ]
+    },
+    {
+     "file": "packs/fluent-festivals/73862820e58b/08.webp",
+     "thumb": "packs/fluent-festivals/73862820e58b/thumbs/08.webp",
+     "name": "moon cake",
+     "emoji": [
+      "🥮"
+     ]
+    },
+    {
+     "file": "packs/fluent-festivals/73862820e58b/09.webp",
+     "thumb": "packs/fluent-festivals/73862820e58b/thumbs/09.webp",
+     "name": "wrapped gift",
+     "emoji": [
+      "🎁"
+     ]
+    },
+    {
+     "file": "packs/fluent-festivals/73862820e58b/10.webp",
+     "thumb": "packs/fluent-festivals/73862820e58b/thumbs/10.webp",
+     "name": "snowman",
+     "emoji": [
+      "☃️"
+     ]
+    },
+    {
+     "file": "packs/fluent-festivals/73862820e58b/11.webp",
+     "thumb": "packs/fluent-festivals/73862820e58b/thumbs/11.webp",
+     "name": "kite",
+     "emoji": [
+      "🪁"
+     ]
+    },
+    {
+     "file": "packs/fluent-festivals/73862820e58b/12.webp",
+     "thumb": "packs/fluent-festivals/73862820e58b/thumbs/12.webp",
+     "name": "firecracker",
+     "emoji": [
+      "🧨"
+     ]
+    },
+    {
+     "file": "packs/fluent-festivals/73862820e58b/13.webp",
+     "thumb": "packs/fluent-festivals/73862820e58b/thumbs/13.webp",
+     "name": "crescent moon",
+     "emoji": [
+      "🌙"
+     ]
+    },
+    {
+     "file": "packs/fluent-festivals/73862820e58b/14.webp",
+     "thumb": "packs/fluent-festivals/73862820e58b/thumbs/14.webp",
+     "name": "mosque",
+     "emoji": [
+      "🕌"
+     ]
+    },
+    {
+     "file": "packs/fluent-festivals/73862820e58b/15.webp",
+     "thumb": "packs/fluent-festivals/73862820e58b/thumbs/15.webp",
+     "name": "party popper",
+     "emoji": [
+      "🎉"
+     ]
+    },
+    {
+     "file": "packs/fluent-festivals/73862820e58b/16.webp",
+     "thumb": "packs/fluent-festivals/73862820e58b/thumbs/16.webp",
+     "name": "tanabata tree",
+     "emoji": [
+      "🎋"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fluent-food",
+   "name": "Yummy Food",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "FOOD",
+   "credit": "Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "version": "54c5a083db86",
+   "sizeBytes": 304356,
+   "tray": "packs/fluent-food/54c5a083db86/tray.png",
+   "stickers": [
+    {
+     "file": "packs/fluent-food/54c5a083db86/01.webp",
+     "thumb": "packs/fluent-food/54c5a083db86/thumbs/01.webp",
+     "name": "pizza",
+     "emoji": [
+      "🍕"
+     ]
+    },
+    {
+     "file": "packs/fluent-food/54c5a083db86/02.webp",
+     "thumb": "packs/fluent-food/54c5a083db86/thumbs/02.webp",
+     "name": "hamburger",
+     "emoji": [
+      "🍔"
+     ]
+    },
+    {
+     "file": "packs/fluent-food/54c5a083db86/03.webp",
+     "thumb": "packs/fluent-food/54c5a083db86/thumbs/03.webp",
+     "name": "french fries",
+     "emoji": [
+      "🍟"
+     ]
+    },
+    {
+     "file": "packs/fluent-food/54c5a083db86/04.webp",
+     "thumb": "packs/fluent-food/54c5a083db86/thumbs/04.webp",
+     "name": "doughnut",
+     "emoji": [
+      "🍩"
+     ]
+    },
+    {
+     "file": "packs/fluent-food/54c5a083db86/05.webp",
+     "thumb": "packs/fluent-food/54c5a083db86/thumbs/05.webp",
+     "name": "soft ice cream",
+     "emoji": [
+      "🍦"
+     ]
+    },
+    {
+     "file": "packs/fluent-food/54c5a083db86/06.webp",
+     "thumb": "packs/fluent-food/54c5a083db86/thumbs/06.webp",
+     "name": "sushi",
+     "emoji": [
+      "🍣"
+     ]
+    },
+    {
+     "file": "packs/fluent-food/54c5a083db86/07.webp",
+     "thumb": "packs/fluent-food/54c5a083db86/thumbs/07.webp",
+     "name": "taco",
+     "emoji": [
+      "🌮"
+     ]
+    },
+    {
+     "file": "packs/fluent-food/54c5a083db86/08.webp",
+     "thumb": "packs/fluent-food/54c5a083db86/thumbs/08.webp",
+     "name": "hot dog",
+     "emoji": [
+      "🌭"
+     ]
+    },
+    {
+     "file": "packs/fluent-food/54c5a083db86/09.webp",
+     "thumb": "packs/fluent-food/54c5a083db86/thumbs/09.webp",
+     "name": "popcorn",
+     "emoji": [
+      "🍿"
+     ]
+    },
+    {
+     "file": "packs/fluent-food/54c5a083db86/10.webp",
+     "thumb": "packs/fluent-food/54c5a083db86/thumbs/10.webp",
+     "name": "watermelon",
+     "emoji": [
+      "🍉"
+     ]
+    },
+    {
+     "file": "packs/fluent-food/54c5a083db86/11.webp",
+     "thumb": "packs/fluent-food/54c5a083db86/thumbs/11.webp",
+     "name": "strawberry",
+     "emoji": [
+      "🍓"
+     ]
+    },
+    {
+     "file": "packs/fluent-food/54c5a083db86/12.webp",
+     "thumb": "packs/fluent-food/54c5a083db86/thumbs/12.webp",
+     "name": "avocado",
+     "emoji": [
+      "🥑"
+     ]
+    },
+    {
+     "file": "packs/fluent-food/54c5a083db86/13.webp",
+     "thumb": "packs/fluent-food/54c5a083db86/thumbs/13.webp",
+     "name": "bubble tea",
+     "emoji": [
+      "🧋"
+     ]
+    },
+    {
+     "file": "packs/fluent-food/54c5a083db86/14.webp",
+     "thumb": "packs/fluent-food/54c5a083db86/thumbs/14.webp",
+     "name": "cookie",
+     "emoji": [
+      "🍪"
+     ]
+    },
+    {
+     "file": "packs/fluent-food/54c5a083db86/15.webp",
+     "thumb": "packs/fluent-food/54c5a083db86/thumbs/15.webp",
+     "name": "croissant",
+     "emoji": [
+      "🥐"
+     ]
+    },
+    {
+     "file": "packs/fluent-food/54c5a083db86/16.webp",
+     "thumb": "packs/fluent-food/54c5a083db86/thumbs/16.webp",
+     "name": "pancakes",
+     "emoji": [
+      "🥞"
+     ]
+    },
+    {
+     "file": "packs/fluent-food/54c5a083db86/17.webp",
+     "thumb": "packs/fluent-food/54c5a083db86/thumbs/17.webp",
+     "name": "burrito",
+     "emoji": [
+      "🌯"
+     ]
+    },
+    {
+     "file": "packs/fluent-food/54c5a083db86/18.webp",
+     "thumb": "packs/fluent-food/54c5a083db86/thumbs/18.webp",
+     "name": "lollipop",
+     "emoji": [
+      "🍭"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fluent-funny",
+   "name": "LOL & Silly",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "FUNNY",
+   "credit": "Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "version": "2cad4755f489",
+   "sizeBytes": 403410,
+   "tray": "packs/fluent-funny/2cad4755f489/tray.png",
+   "stickers": [
+    {
+     "file": "packs/fluent-funny/2cad4755f489/01.webp",
+     "thumb": "packs/fluent-funny/2cad4755f489/thumbs/01.webp",
+     "name": "rolling on the floor laughing",
+     "emoji": [
+      "🤣"
+     ]
+    },
+    {
+     "file": "packs/fluent-funny/2cad4755f489/02.webp",
+     "thumb": "packs/fluent-funny/2cad4755f489/thumbs/02.webp",
+     "name": "face with tears of joy",
+     "emoji": [
+      "😂"
+     ]
+    },
+    {
+     "file": "packs/fluent-funny/2cad4755f489/03.webp",
+     "thumb": "packs/fluent-funny/2cad4755f489/thumbs/03.webp",
+     "name": "zany face",
+     "emoji": [
+      "🤪"
+     ]
+    },
+    {
+     "file": "packs/fluent-funny/2cad4755f489/04.webp",
+     "thumb": "packs/fluent-funny/2cad4755f489/thumbs/04.webp",
+     "name": "clown face",
+     "emoji": [
+      "🤡"
+     ]
+    },
+    {
+     "file": "packs/fluent-funny/2cad4755f489/05.webp",
+     "thumb": "packs/fluent-funny/2cad4755f489/thumbs/05.webp",
+     "name": "face with rolling eyes",
+     "emoji": [
+      "🙄"
+     ]
+    },
+    {
+     "file": "packs/fluent-funny/2cad4755f489/06.webp",
+     "thumb": "packs/fluent-funny/2cad4755f489/thumbs/06.webp",
+     "name": "upside-down face",
+     "emoji": [
+      "🙃"
+     ]
+    },
+    {
+     "file": "packs/fluent-funny/2cad4755f489/07.webp",
+     "thumb": "packs/fluent-funny/2cad4755f489/thumbs/07.webp",
+     "name": "winking face with tongue",
+     "emoji": [
+      "😜"
+     ]
+    },
+    {
+     "file": "packs/fluent-funny/2cad4755f489/08.webp",
+     "thumb": "packs/fluent-funny/2cad4755f489/thumbs/08.webp",
+     "name": "nerd face",
+     "emoji": [
+      "🤓"
+     ]
+    },
+    {
+     "file": "packs/fluent-funny/2cad4755f489/09.webp",
+     "thumb": "packs/fluent-funny/2cad4755f489/thumbs/09.webp",
+     "name": "skull",
+     "emoji": [
+      "💀"
+     ]
+    },
+    {
+     "file": "packs/fluent-funny/2cad4755f489/10.webp",
+     "thumb": "packs/fluent-funny/2cad4755f489/thumbs/10.webp",
+     "name": "ghost",
+     "emoji": [
+      "👻"
+     ]
+    },
+    {
+     "file": "packs/fluent-funny/2cad4755f489/11.webp",
+     "thumb": "packs/fluent-funny/2cad4755f489/thumbs/11.webp",
+     "name": "pile of poo",
+     "emoji": [
+      "💩"
+     ]
+    },
+    {
+     "file": "packs/fluent-funny/2cad4755f489/12.webp",
+     "thumb": "packs/fluent-funny/2cad4755f489/thumbs/12.webp",
+     "name": "see-no-evil monkey",
+     "emoji": [
+      "🙈"
+     ]
+    },
+    {
+     "file": "packs/fluent-funny/2cad4755f489/13.webp",
+     "thumb": "packs/fluent-funny/2cad4755f489/thumbs/13.webp",
+     "name": "alien",
+     "emoji": [
+      "👽"
+     ]
+    },
+    {
+     "file": "packs/fluent-funny/2cad4755f489/14.webp",
+     "thumb": "packs/fluent-funny/2cad4755f489/thumbs/14.webp",
+     "name": "face with hand over mouth",
+     "emoji": [
+      "🤭"
+     ]
+    },
+    {
+     "file": "packs/fluent-funny/2cad4755f489/15.webp",
+     "thumb": "packs/fluent-funny/2cad4755f489/thumbs/15.webp",
+     "name": "grinning squinting face",
+     "emoji": [
+      "😆"
+     ]
+    },
+    {
+     "file": "packs/fluent-funny/2cad4755f489/16.webp",
+     "thumb": "packs/fluent-funny/2cad4755f489/thumbs/16.webp",
+     "name": "cowboy hat face",
+     "emoji": [
+      "🤠"
+     ]
+    },
+    {
+     "file": "packs/fluent-funny/2cad4755f489/17.webp",
+     "thumb": "packs/fluent-funny/2cad4755f489/thumbs/17.webp",
+     "name": "monkey face",
+     "emoji": [
+      "🐵"
+     ]
+    },
+    {
+     "file": "packs/fluent-funny/2cad4755f489/18.webp",
+     "thumb": "packs/fluent-funny/2cad4755f489/thumbs/18.webp",
+     "name": "melting face",
+     "emoji": [
+      "🫠"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fluent-greetings",
+   "name": "Hello & Thanks",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "GREETINGS",
+   "credit": "Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "version": "ddc6199eef33",
+   "sizeBytes": 300922,
+   "tray": "packs/fluent-greetings/ddc6199eef33/tray.png",
+   "stickers": [
+    {
+     "file": "packs/fluent-greetings/ddc6199eef33/01.webp",
+     "thumb": "packs/fluent-greetings/ddc6199eef33/thumbs/01.webp",
+     "name": "waving hand",
+     "emoji": [
+      "👋"
+     ]
+    },
+    {
+     "file": "packs/fluent-greetings/ddc6199eef33/02.webp",
+     "thumb": "packs/fluent-greetings/ddc6199eef33/thumbs/02.webp",
+     "name": "folded hands",
+     "emoji": [
+      "🙏"
+     ]
+    },
+    {
+     "file": "packs/fluent-greetings/ddc6199eef33/03.webp",
+     "thumb": "packs/fluent-greetings/ddc6199eef33/thumbs/03.webp",
+     "name": "sunrise",
+     "emoji": [
+      "🌅"
+     ]
+    },
+    {
+     "file": "packs/fluent-greetings/ddc6199eef33/04.webp",
+     "thumb": "packs/fluent-greetings/ddc6199eef33/thumbs/04.webp",
+     "name": "crescent moon",
+     "emoji": [
+      "🌙"
+     ]
+    },
+    {
+     "file": "packs/fluent-greetings/ddc6199eef33/05.webp",
+     "thumb": "packs/fluent-greetings/ddc6199eef33/thumbs/05.webp",
+     "name": "hot beverage",
+     "emoji": [
+      "☕"
+     ]
+    },
+    {
+     "file": "packs/fluent-greetings/ddc6199eef33/06.webp",
+     "thumb": "packs/fluent-greetings/ddc6199eef33/thumbs/06.webp",
+     "name": "OK hand",
+     "emoji": [
+      "👌"
+     ]
+    },
+    {
+     "file": "packs/fluent-greetings/ddc6199eef33/07.webp",
+     "thumb": "packs/fluent-greetings/ddc6199eef33/thumbs/07.webp",
+     "name": "handshake",
+     "emoji": [
+      "🤝"
+     ]
+    },
+    {
+     "file": "packs/fluent-greetings/ddc6199eef33/08.webp",
+     "thumb": "packs/fluent-greetings/ddc6199eef33/thumbs/08.webp",
+     "name": "thumbs up",
+     "emoji": [
+      "👍"
+     ]
+    },
+    {
+     "file": "packs/fluent-greetings/ddc6199eef33/09.webp",
+     "thumb": "packs/fluent-greetings/ddc6199eef33/thumbs/09.webp",
+     "name": "saluting face",
+     "emoji": [
+      "🫡"
+     ]
+    },
+    {
+     "file": "packs/fluent-greetings/ddc6199eef33/10.webp",
+     "thumb": "packs/fluent-greetings/ddc6199eef33/thumbs/10.webp",
+     "name": "clapping hands",
+     "emoji": [
+      "👏"
+     ]
+    },
+    {
+     "file": "packs/fluent-greetings/ddc6199eef33/11.webp",
+     "thumb": "packs/fluent-greetings/ddc6199eef33/thumbs/11.webp",
+     "name": "raising hands",
+     "emoji": [
+      "🙌"
+     ]
+    },
+    {
+     "file": "packs/fluent-greetings/ddc6199eef33/12.webp",
+     "thumb": "packs/fluent-greetings/ddc6199eef33/thumbs/12.webp",
+     "name": "victory hand",
+     "emoji": [
+      "✌️"
+     ]
+    },
+    {
+     "file": "packs/fluent-greetings/ddc6199eef33/13.webp",
+     "thumb": "packs/fluent-greetings/ddc6199eef33/thumbs/13.webp",
+     "name": "love-you gesture",
+     "emoji": [
+      "🤟"
+     ]
+    },
+    {
+     "file": "packs/fluent-greetings/ddc6199eef33/14.webp",
+     "thumb": "packs/fluent-greetings/ddc6199eef33/thumbs/14.webp",
+     "name": "sleeping face",
+     "emoji": [
+      "😴"
+     ]
+    },
+    {
+     "file": "packs/fluent-greetings/ddc6199eef33/15.webp",
+     "thumb": "packs/fluent-greetings/ddc6199eef33/thumbs/15.webp",
+     "name": "bouquet",
+     "emoji": [
+      "💐"
+     ]
+    },
+    {
+     "file": "packs/fluent-greetings/ddc6199eef33/16.webp",
+     "thumb": "packs/fluent-greetings/ddc6199eef33/thumbs/16.webp",
+     "name": "sun",
+     "emoji": [
+      "☀️"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fluent-happy",
+   "name": "Good Vibes",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "HAPPY",
+   "credit": "Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "version": "880635fa002b",
+   "sizeBytes": 373308,
+   "tray": "packs/fluent-happy/880635fa002b/tray.png",
+   "stickers": [
+    {
+     "file": "packs/fluent-happy/880635fa002b/01.webp",
+     "thumb": "packs/fluent-happy/880635fa002b/thumbs/01.webp",
+     "name": "grinning face",
+     "emoji": [
+      "😀"
+     ]
+    },
+    {
+     "file": "packs/fluent-happy/880635fa002b/02.webp",
+     "thumb": "packs/fluent-happy/880635fa002b/thumbs/02.webp",
+     "name": "beaming face with smiling eyes",
+     "emoji": [
+      "😁"
+     ]
+    },
+    {
+     "file": "packs/fluent-happy/880635fa002b/03.webp",
+     "thumb": "packs/fluent-happy/880635fa002b/thumbs/03.webp",
+     "name": "smiling face with sunglasses",
+     "emoji": [
+      "😎"
+     ]
+    },
+    {
+     "file": "packs/fluent-happy/880635fa002b/04.webp",
+     "thumb": "packs/fluent-happy/880635fa002b/thumbs/04.webp",
+     "name": "star-struck",
+     "emoji": [
+      "🤩"
+     ]
+    },
+    {
+     "file": "packs/fluent-happy/880635fa002b/05.webp",
+     "thumb": "packs/fluent-happy/880635fa002b/thumbs/05.webp",
+     "name": "partying face",
+     "emoji": [
+      "🥳"
+     ]
+    },
+    {
+     "file": "packs/fluent-happy/880635fa002b/06.webp",
+     "thumb": "packs/fluent-happy/880635fa002b/thumbs/06.webp",
+     "name": "sparkles",
+     "emoji": [
+      "✨"
+     ]
+    },
+    {
+     "file": "packs/fluent-happy/880635fa002b/07.webp",
+     "thumb": "packs/fluent-happy/880635fa002b/thumbs/07.webp",
+     "name": "rainbow",
+     "emoji": [
+      "🌈"
+     ]
+    },
+    {
+     "file": "packs/fluent-happy/880635fa002b/08.webp",
+     "thumb": "packs/fluent-happy/880635fa002b/thumbs/08.webp",
+     "name": "party popper",
+     "emoji": [
+      "🎉"
+     ]
+    },
+    {
+     "file": "packs/fluent-happy/880635fa002b/09.webp",
+     "thumb": "packs/fluent-happy/880635fa002b/thumbs/09.webp",
+     "name": "smiling face with halo",
+     "emoji": [
+      "😇"
+     ]
+    },
+    {
+     "file": "packs/fluent-happy/880635fa002b/10.webp",
+     "thumb": "packs/fluent-happy/880635fa002b/thumbs/10.webp",
+     "name": "sun with face",
+     "emoji": [
+      "🌞"
+     ]
+    },
+    {
+     "file": "packs/fluent-happy/880635fa002b/11.webp",
+     "thumb": "packs/fluent-happy/880635fa002b/thumbs/11.webp",
+     "name": "glowing star",
+     "emoji": [
+      "🌟"
+     ]
+    },
+    {
+     "file": "packs/fluent-happy/880635fa002b/12.webp",
+     "thumb": "packs/fluent-happy/880635fa002b/thumbs/12.webp",
+     "name": "hundred points",
+     "emoji": [
+      "💯"
+     ]
+    },
+    {
+     "file": "packs/fluent-happy/880635fa002b/13.webp",
+     "thumb": "packs/fluent-happy/880635fa002b/thumbs/13.webp",
+     "name": "slightly smiling face",
+     "emoji": [
+      "🙂"
+     ]
+    },
+    {
+     "file": "packs/fluent-happy/880635fa002b/14.webp",
+     "thumb": "packs/fluent-happy/880635fa002b/thumbs/14.webp",
+     "name": "hugging face",
+     "emoji": [
+      "🤗"
+     ]
+    },
+    {
+     "file": "packs/fluent-happy/880635fa002b/15.webp",
+     "thumb": "packs/fluent-happy/880635fa002b/thumbs/15.webp",
+     "name": "fire",
+     "emoji": [
+      "🔥"
+     ]
+    },
+    {
+     "file": "packs/fluent-happy/880635fa002b/16.webp",
+     "thumb": "packs/fluent-happy/880635fa002b/thumbs/16.webp",
+     "name": "smiling face with smiling eyes",
+     "emoji": [
+      "😊"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fluent-love",
+   "name": "Love & Hearts",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "LOVE",
+   "credit": "Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "version": "57bef0b05bbb",
+   "sizeBytes": 371666,
+   "tray": "packs/fluent-love/57bef0b05bbb/tray.png",
+   "stickers": [
+    {
+     "file": "packs/fluent-love/57bef0b05bbb/01.webp",
+     "thumb": "packs/fluent-love/57bef0b05bbb/thumbs/01.webp",
+     "name": "red heart",
+     "emoji": [
+      "❤️"
+     ]
+    },
+    {
+     "file": "packs/fluent-love/57bef0b05bbb/02.webp",
+     "thumb": "packs/fluent-love/57bef0b05bbb/thumbs/02.webp",
+     "name": "two hearts",
+     "emoji": [
+      "💕"
+     ]
+    },
+    {
+     "file": "packs/fluent-love/57bef0b05bbb/03.webp",
+     "thumb": "packs/fluent-love/57bef0b05bbb/thumbs/03.webp",
+     "name": "heart with arrow",
+     "emoji": [
+      "💘"
+     ]
+    },
+    {
+     "file": "packs/fluent-love/57bef0b05bbb/04.webp",
+     "thumb": "packs/fluent-love/57bef0b05bbb/thumbs/04.webp",
+     "name": "smiling face with hearts",
+     "emoji": [
+      "🥰"
+     ]
+    },
+    {
+     "file": "packs/fluent-love/57bef0b05bbb/05.webp",
+     "thumb": "packs/fluent-love/57bef0b05bbb/thumbs/05.webp",
+     "name": "face blowing a kiss",
+     "emoji": [
+      "😘"
+     ]
+    },
+    {
+     "file": "packs/fluent-love/57bef0b05bbb/06.webp",
+     "thumb": "packs/fluent-love/57bef0b05bbb/thumbs/06.webp",
+     "name": "kiss mark",
+     "emoji": [
+      "💋"
+     ]
+    },
+    {
+     "file": "packs/fluent-love/57bef0b05bbb/07.webp",
+     "thumb": "packs/fluent-love/57bef0b05bbb/thumbs/07.webp",
+     "name": "love letter",
+     "emoji": [
+      "💌"
+     ]
+    },
+    {
+     "file": "packs/fluent-love/57bef0b05bbb/08.webp",
+     "thumb": "packs/fluent-love/57bef0b05bbb/thumbs/08.webp",
+     "name": "heart on fire",
+     "emoji": [
+      "❤️‍🔥"
+     ]
+    },
+    {
+     "file": "packs/fluent-love/57bef0b05bbb/09.webp",
+     "thumb": "packs/fluent-love/57bef0b05bbb/thumbs/09.webp",
+     "name": "sparkling heart",
+     "emoji": [
+      "💖"
+     ]
+    },
+    {
+     "file": "packs/fluent-love/57bef0b05bbb/10.webp",
+     "thumb": "packs/fluent-love/57bef0b05bbb/thumbs/10.webp",
+     "name": "rose",
+     "emoji": [
+      "🌹"
+     ]
+    },
+    {
+     "file": "packs/fluent-love/57bef0b05bbb/11.webp",
+     "thumb": "packs/fluent-love/57bef0b05bbb/thumbs/11.webp",
+     "name": "ring",
+     "emoji": [
+      "💍"
+     ]
+    },
+    {
+     "file": "packs/fluent-love/57bef0b05bbb/12.webp",
+     "thumb": "packs/fluent-love/57bef0b05bbb/thumbs/12.webp",
+     "name": "smiling face with heart-eyes",
+     "emoji": [
+      "😍"
+     ]
+    },
+    {
+     "file": "packs/fluent-love/57bef0b05bbb/13.webp",
+     "thumb": "packs/fluent-love/57bef0b05bbb/thumbs/13.webp",
+     "name": "revolving hearts",
+     "emoji": [
+      "💞"
+     ]
+    },
+    {
+     "file": "packs/fluent-love/57bef0b05bbb/14.webp",
+     "thumb": "packs/fluent-love/57bef0b05bbb/thumbs/14.webp",
+     "name": "heart with ribbon",
+     "emoji": [
+      "💝"
+     ]
+    },
+    {
+     "file": "packs/fluent-love/57bef0b05bbb/15.webp",
+     "thumb": "packs/fluent-love/57bef0b05bbb/thumbs/15.webp",
+     "name": "growing heart",
+     "emoji": [
+      "💗"
+     ]
+    },
+    {
+     "file": "packs/fluent-love/57bef0b05bbb/16.webp",
+     "thumb": "packs/fluent-love/57bef0b05bbb/thumbs/16.webp",
+     "name": "cat with wry smile",
+     "emoji": [
+      "😼"
+     ]
+    },
+    {
+     "file": "packs/fluent-love/57bef0b05bbb/17.webp",
+     "thumb": "packs/fluent-love/57bef0b05bbb/thumbs/17.webp",
+     "name": "bouquet",
+     "emoji": [
+      "💐"
+     ]
+    },
+    {
+     "file": "packs/fluent-love/57bef0b05bbb/18.webp",
+     "thumb": "packs/fluent-love/57bef0b05bbb/thumbs/18.webp",
+     "name": "teddy bear",
+     "emoji": [
+      "🧸"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fluent-reactions",
+   "name": "Quick Reactions",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "REACTIONS",
+   "credit": "Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "version": "2e1279d8df46",
+   "sizeBytes": 355948,
+   "tray": "packs/fluent-reactions/2e1279d8df46/tray.png",
+   "stickers": [
+    {
+     "file": "packs/fluent-reactions/2e1279d8df46/01.webp",
+     "thumb": "packs/fluent-reactions/2e1279d8df46/thumbs/01.webp",
+     "name": "thumbs up",
+     "emoji": [
+      "👍"
+     ]
+    },
+    {
+     "file": "packs/fluent-reactions/2e1279d8df46/02.webp",
+     "thumb": "packs/fluent-reactions/2e1279d8df46/thumbs/02.webp",
+     "name": "thumbs down",
+     "emoji": [
+      "👎"
+     ]
+    },
+    {
+     "file": "packs/fluent-reactions/2e1279d8df46/03.webp",
+     "thumb": "packs/fluent-reactions/2e1279d8df46/thumbs/03.webp",
+     "name": "thinking face",
+     "emoji": [
+      "🤔"
+     ]
+    },
+    {
+     "file": "packs/fluent-reactions/2e1279d8df46/04.webp",
+     "thumb": "packs/fluent-reactions/2e1279d8df46/thumbs/04.webp",
+     "name": "face with open mouth",
+     "emoji": [
+      "😮"
+     ]
+    },
+    {
+     "file": "packs/fluent-reactions/2e1279d8df46/05.webp",
+     "thumb": "packs/fluent-reactions/2e1279d8df46/thumbs/05.webp",
+     "name": "exploding head",
+     "emoji": [
+      "🤯"
+     ]
+    },
+    {
+     "file": "packs/fluent-reactions/2e1279d8df46/06.webp",
+     "thumb": "packs/fluent-reactions/2e1279d8df46/thumbs/06.webp",
+     "name": "face screaming in fear",
+     "emoji": [
+      "😱"
+     ]
+    },
+    {
+     "file": "packs/fluent-reactions/2e1279d8df46/07.webp",
+     "thumb": "packs/fluent-reactions/2e1279d8df46/thumbs/07.webp",
+     "name": "shushing face",
+     "emoji": [
+      "🤫"
+     ]
+    },
+    {
+     "file": "packs/fluent-reactions/2e1279d8df46/08.webp",
+     "thumb": "packs/fluent-reactions/2e1279d8df46/thumbs/08.webp",
+     "name": "neutral face",
+     "emoji": [
+      "😐"
+     ]
+    },
+    {
+     "file": "packs/fluent-reactions/2e1279d8df46/09.webp",
+     "thumb": "packs/fluent-reactions/2e1279d8df46/thumbs/09.webp",
+     "name": "face with raised eyebrow",
+     "emoji": [
+      "🤨"
+     ]
+    },
+    {
+     "file": "packs/fluent-reactions/2e1279d8df46/10.webp",
+     "thumb": "packs/fluent-reactions/2e1279d8df46/thumbs/10.webp",
+     "name": "check mark button",
+     "emoji": [
+      "✅"
+     ]
+    },
+    {
+     "file": "packs/fluent-reactions/2e1279d8df46/11.webp",
+     "thumb": "packs/fluent-reactions/2e1279d8df46/thumbs/11.webp",
+     "name": "cross mark",
+     "emoji": [
+      "❌"
+     ]
+    },
+    {
+     "file": "packs/fluent-reactions/2e1279d8df46/12.webp",
+     "thumb": "packs/fluent-reactions/2e1279d8df46/thumbs/12.webp",
+     "name": "red question mark",
+     "emoji": [
+      "❓"
+     ]
+    },
+    {
+     "file": "packs/fluent-reactions/2e1279d8df46/13.webp",
+     "thumb": "packs/fluent-reactions/2e1279d8df46/thumbs/13.webp",
+     "name": "exclamation question mark",
+     "emoji": [
+      "⁉️"
+     ]
+    },
+    {
+     "file": "packs/fluent-reactions/2e1279d8df46/14.webp",
+     "thumb": "packs/fluent-reactions/2e1279d8df46/thumbs/14.webp",
+     "name": "eyes",
+     "emoji": [
+      "👀"
+     ]
+    },
+    {
+     "file": "packs/fluent-reactions/2e1279d8df46/15.webp",
+     "thumb": "packs/fluent-reactions/2e1279d8df46/thumbs/15.webp",
+     "name": "zipper-mouth face",
+     "emoji": [
+      "🤐"
+     ]
+    },
+    {
+     "file": "packs/fluent-reactions/2e1279d8df46/16.webp",
+     "thumb": "packs/fluent-reactions/2e1279d8df46/thumbs/16.webp",
+     "name": "face with monocle",
+     "emoji": [
+      "🧐"
+     ]
+    },
+    {
+     "file": "packs/fluent-reactions/2e1279d8df46/17.webp",
+     "thumb": "packs/fluent-reactions/2e1279d8df46/thumbs/17.webp",
+     "name": "flushed face",
+     "emoji": [
+      "😳"
+     ]
+    },
+    {
+     "file": "packs/fluent-reactions/2e1279d8df46/18.webp",
+     "thumb": "packs/fluent-reactions/2e1279d8df46/thumbs/18.webp",
+     "name": "pouting face",
+     "emoji": [
+      "😡"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fluent-sad",
+   "name": "Feeling Blue",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "SAD",
+   "credit": "Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "version": "d8b893b41544",
+   "sizeBytes": 301714,
+   "tray": "packs/fluent-sad/d8b893b41544/tray.png",
+   "stickers": [
+    {
+     "file": "packs/fluent-sad/d8b893b41544/01.webp",
+     "thumb": "packs/fluent-sad/d8b893b41544/thumbs/01.webp",
+     "name": "crying face",
+     "emoji": [
+      "😢"
+     ]
+    },
+    {
+     "file": "packs/fluent-sad/d8b893b41544/02.webp",
+     "thumb": "packs/fluent-sad/d8b893b41544/thumbs/02.webp",
+     "name": "loudly crying face",
+     "emoji": [
+      "😭"
+     ]
+    },
+    {
+     "file": "packs/fluent-sad/d8b893b41544/03.webp",
+     "thumb": "packs/fluent-sad/d8b893b41544/thumbs/03.webp",
+     "name": "pensive face",
+     "emoji": [
+      "😔"
+     ]
+    },
+    {
+     "file": "packs/fluent-sad/d8b893b41544/04.webp",
+     "thumb": "packs/fluent-sad/d8b893b41544/thumbs/04.webp",
+     "name": "disappointed face",
+     "emoji": [
+      "😞"
+     ]
+    },
+    {
+     "file": "packs/fluent-sad/d8b893b41544/05.webp",
+     "thumb": "packs/fluent-sad/d8b893b41544/thumbs/05.webp",
+     "name": "broken heart",
+     "emoji": [
+      "💔"
+     ]
+    },
+    {
+     "file": "packs/fluent-sad/d8b893b41544/06.webp",
+     "thumb": "packs/fluent-sad/d8b893b41544/thumbs/06.webp",
+     "name": "pleading face",
+     "emoji": [
+      "🥺"
+     ]
+    },
+    {
+     "file": "packs/fluent-sad/d8b893b41544/07.webp",
+     "thumb": "packs/fluent-sad/d8b893b41544/thumbs/07.webp",
+     "name": "worried face",
+     "emoji": [
+      "😟"
+     ]
+    },
+    {
+     "file": "packs/fluent-sad/d8b893b41544/08.webp",
+     "thumb": "packs/fluent-sad/d8b893b41544/thumbs/08.webp",
+     "name": "cloud with rain",
+     "emoji": [
+      "🌧️"
+     ]
+    },
+    {
+     "file": "packs/fluent-sad/d8b893b41544/09.webp",
+     "thumb": "packs/fluent-sad/d8b893b41544/thumbs/09.webp",
+     "name": "wilted flower",
+     "emoji": [
+      "🥀"
+     ]
+    },
+    {
+     "file": "packs/fluent-sad/d8b893b41544/10.webp",
+     "thumb": "packs/fluent-sad/d8b893b41544/thumbs/10.webp",
+     "name": "face holding back tears",
+     "emoji": [
+      "🥹"
+     ]
+    },
+    {
+     "file": "packs/fluent-sad/d8b893b41544/11.webp",
+     "thumb": "packs/fluent-sad/d8b893b41544/thumbs/11.webp",
+     "name": "downcast face with sweat",
+     "emoji": [
+      "😓"
+     ]
+    },
+    {
+     "file": "packs/fluent-sad/d8b893b41544/12.webp",
+     "thumb": "packs/fluent-sad/d8b893b41544/thumbs/12.webp",
+     "name": "weary face",
+     "emoji": [
+      "😩"
+     ]
+    },
+    {
+     "file": "packs/fluent-sad/d8b893b41544/13.webp",
+     "thumb": "packs/fluent-sad/d8b893b41544/thumbs/13.webp",
+     "name": "sad but relieved face",
+     "emoji": [
+      "😥"
+     ]
+    },
+    {
+     "file": "packs/fluent-sad/d8b893b41544/14.webp",
+     "thumb": "packs/fluent-sad/d8b893b41544/thumbs/14.webp",
+     "name": "crying cat",
+     "emoji": [
+      "😿"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fluent-sports",
+   "name": "Game On",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "SPORTS",
+   "credit": "Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "version": "a7fac6a95abe",
+   "sizeBytes": 311692,
+   "tray": "packs/fluent-sports/a7fac6a95abe/tray.png",
+   "stickers": [
+    {
+     "file": "packs/fluent-sports/a7fac6a95abe/01.webp",
+     "thumb": "packs/fluent-sports/a7fac6a95abe/thumbs/01.webp",
+     "name": "soccer ball",
+     "emoji": [
+      "⚽"
+     ]
+    },
+    {
+     "file": "packs/fluent-sports/a7fac6a95abe/02.webp",
+     "thumb": "packs/fluent-sports/a7fac6a95abe/thumbs/02.webp",
+     "name": "basketball",
+     "emoji": [
+      "🏀"
+     ]
+    },
+    {
+     "file": "packs/fluent-sports/a7fac6a95abe/03.webp",
+     "thumb": "packs/fluent-sports/a7fac6a95abe/thumbs/03.webp",
+     "name": "trophy",
+     "emoji": [
+      "🏆"
+     ]
+    },
+    {
+     "file": "packs/fluent-sports/a7fac6a95abe/04.webp",
+     "thumb": "packs/fluent-sports/a7fac6a95abe/thumbs/04.webp",
+     "name": "1st place medal",
+     "emoji": [
+      "🥇"
+     ]
+    },
+    {
+     "file": "packs/fluent-sports/a7fac6a95abe/05.webp",
+     "thumb": "packs/fluent-sports/a7fac6a95abe/thumbs/05.webp",
+     "name": "cricket game",
+     "emoji": [
+      "🏏"
+     ]
+    },
+    {
+     "file": "packs/fluent-sports/a7fac6a95abe/06.webp",
+     "thumb": "packs/fluent-sports/a7fac6a95abe/thumbs/06.webp",
+     "name": "tennis",
+     "emoji": [
+      "🎾"
+     ]
+    },
+    {
+     "file": "packs/fluent-sports/a7fac6a95abe/07.webp",
+     "thumb": "packs/fluent-sports/a7fac6a95abe/thumbs/07.webp",
+     "name": "american football",
+     "emoji": [
+      "🏈"
+     ]
+    },
+    {
+     "file": "packs/fluent-sports/a7fac6a95abe/08.webp",
+     "thumb": "packs/fluent-sports/a7fac6a95abe/thumbs/08.webp",
+     "name": "baseball",
+     "emoji": [
+      "⚾"
+     ]
+    },
+    {
+     "file": "packs/fluent-sports/a7fac6a95abe/09.webp",
+     "thumb": "packs/fluent-sports/a7fac6a95abe/thumbs/09.webp",
+     "name": "volleyball",
+     "emoji": [
+      "🏐"
+     ]
+    },
+    {
+     "file": "packs/fluent-sports/a7fac6a95abe/10.webp",
+     "thumb": "packs/fluent-sports/a7fac6a95abe/thumbs/10.webp",
+     "name": "flexed biceps",
+     "emoji": [
+      "💪"
+     ]
+    },
+    {
+     "file": "packs/fluent-sports/a7fac6a95abe/11.webp",
+     "thumb": "packs/fluent-sports/a7fac6a95abe/thumbs/11.webp",
+     "name": "running shoe",
+     "emoji": [
+      "👟"
+     ]
+    },
+    {
+     "file": "packs/fluent-sports/a7fac6a95abe/12.webp",
+     "thumb": "packs/fluent-sports/a7fac6a95abe/thumbs/12.webp",
+     "name": "goal net",
+     "emoji": [
+      "🥅"
+     ]
+    },
+    {
+     "file": "packs/fluent-sports/a7fac6a95abe/13.webp",
+     "thumb": "packs/fluent-sports/a7fac6a95abe/thumbs/13.webp",
+     "name": "sports medal",
+     "emoji": [
+      "🏅"
+     ]
+    },
+    {
+     "file": "packs/fluent-sports/a7fac6a95abe/14.webp",
+     "thumb": "packs/fluent-sports/a7fac6a95abe/thumbs/14.webp",
+     "name": "badminton",
+     "emoji": [
+      "🏸"
+     ]
+    },
+    {
+     "file": "packs/fluent-sports/a7fac6a95abe/15.webp",
+     "thumb": "packs/fluent-sports/a7fac6a95abe/thumbs/15.webp",
+     "name": "ping pong",
+     "emoji": [
+      "🏓"
+     ]
+    },
+    {
+     "file": "packs/fluent-sports/a7fac6a95abe/16.webp",
+     "thumb": "packs/fluent-sports/a7fac6a95abe/thumbs/16.webp",
+     "name": "bowling",
+     "emoji": [
+      "🎳"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fluent-work",
+   "name": "Work Mode",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "WORK",
+   "credit": "Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "version": "99c918a726d4",
+   "sizeBytes": 254390,
+   "tray": "packs/fluent-work/99c918a726d4/tray.png",
+   "stickers": [
+    {
+     "file": "packs/fluent-work/99c918a726d4/01.webp",
+     "thumb": "packs/fluent-work/99c918a726d4/thumbs/01.webp",
+     "name": "laptop",
+     "emoji": [
+      "💻"
+     ]
+    },
+    {
+     "file": "packs/fluent-work/99c918a726d4/02.webp",
+     "thumb": "packs/fluent-work/99c918a726d4/thumbs/02.webp",
+     "name": "briefcase",
+     "emoji": [
+      "💼"
+     ]
+    },
+    {
+     "file": "packs/fluent-work/99c918a726d4/03.webp",
+     "thumb": "packs/fluent-work/99c918a726d4/thumbs/03.webp",
+     "name": "memo",
+     "emoji": [
+      "📝"
+     ]
+    },
+    {
+     "file": "packs/fluent-work/99c918a726d4/04.webp",
+     "thumb": "packs/fluent-work/99c918a726d4/thumbs/04.webp",
+     "name": "calendar",
+     "emoji": [
+      "📅"
+     ]
+    },
+    {
+     "file": "packs/fluent-work/99c918a726d4/05.webp",
+     "thumb": "packs/fluent-work/99c918a726d4/thumbs/05.webp",
+     "name": "alarm clock",
+     "emoji": [
+      "⏰"
+     ]
+    },
+    {
+     "file": "packs/fluent-work/99c918a726d4/06.webp",
+     "thumb": "packs/fluent-work/99c918a726d4/thumbs/06.webp",
+     "name": "hot beverage",
+     "emoji": [
+      "☕"
+     ]
+    },
+    {
+     "file": "packs/fluent-work/99c918a726d4/07.webp",
+     "thumb": "packs/fluent-work/99c918a726d4/thumbs/07.webp",
+     "name": "bar chart",
+     "emoji": [
+      "📊"
+     ]
+    },
+    {
+     "file": "packs/fluent-work/99c918a726d4/08.webp",
+     "thumb": "packs/fluent-work/99c918a726d4/thumbs/08.webp",
+     "name": "light bulb",
+     "emoji": [
+      "💡"
+     ]
+    },
+    {
+     "file": "packs/fluent-work/99c918a726d4/09.webp",
+     "thumb": "packs/fluent-work/99c918a726d4/thumbs/09.webp",
+     "name": "rocket",
+     "emoji": [
+      "🚀"
+     ]
+    },
+    {
+     "file": "packs/fluent-work/99c918a726d4/10.webp",
+     "thumb": "packs/fluent-work/99c918a726d4/thumbs/10.webp",
+     "name": "check mark button",
+     "emoji": [
+      "✅"
+     ]
+    },
+    {
+     "file": "packs/fluent-work/99c918a726d4/11.webp",
+     "thumb": "packs/fluent-work/99c918a726d4/thumbs/11.webp",
+     "name": "money bag",
+     "emoji": [
+      "💰"
+     ]
+    },
+    {
+     "file": "packs/fluent-work/99c918a726d4/12.webp",
+     "thumb": "packs/fluent-work/99c918a726d4/thumbs/12.webp",
+     "name": "hourglass done",
+     "emoji": [
+      "⌛"
+     ]
+    },
+    {
+     "file": "packs/fluent-work/99c918a726d4/13.webp",
+     "thumb": "packs/fluent-work/99c918a726d4/thumbs/13.webp",
+     "name": "pushpin",
+     "emoji": [
+      "📌"
+     ]
+    },
+    {
+     "file": "packs/fluent-work/99c918a726d4/14.webp",
+     "thumb": "packs/fluent-work/99c918a726d4/thumbs/14.webp",
+     "name": "chart increasing",
+     "emoji": [
+      "📈"
+     ]
+    },
+    {
+     "file": "packs/fluent-work/99c918a726d4/15.webp",
+     "thumb": "packs/fluent-work/99c918a726d4/thumbs/15.webp",
+     "name": "party popper",
+     "emoji": [
+      "🎉"
+     ]
+    },
+    {
+     "file": "packs/fluent-work/99c918a726d4/16.webp",
+     "thumb": "packs/fluent-work/99c918a726d4/thumbs/16.webp",
+     "name": "sleeping face",
+     "emoji": [
+      "😴"
+     ]
+    }
+   ]
+  }
+ ]
+}
