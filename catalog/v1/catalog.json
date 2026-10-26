@@ -1,8 +1,105 @@
 {
  "format": "stickermaker-catalog",
  "version": 1,
- "generated": "2026-10-07T10:16:10.890Z",
+ "generated": "2026-10-26T19:38:38.779Z",
  "packs": [
+  {
+   "id": "pk-billi",
+   "name": "Billi Gang",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "ANIMALS",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "version": "da7fd6d753cf",
+   "sizeBytes": 183652,
+   "tray": "packs/pk-billi/da7fd6d753cf/tray.png",
+   "stickers": [
+    {
+     "file": "packs/pk-billi/da7fd6d753cf/01.webp",
+     "thumb": "packs/pk-billi/da7fd6d753cf/thumbs/01.webp",
+     "name": "Meow!",
+     "emoji": [
+      "😺"
+     ]
+    },
+    {
+     "file": "packs/pk-billi/da7fd6d753cf/02.webp",
+     "thumb": "packs/pk-billi/da7fd6d753cf/thumbs/02.webp",
+     "name": "Hehe",
+     "emoji": [
+      "😼"
+     ]
+    },
+    {
+     "file": "packs/pk-billi/da7fd6d753cf/03.webp",
+     "thumb": "packs/pk-billi/da7fd6d753cf/thumbs/03.webp",
+     "name": "Pyari Billi",
+     "emoji": [
+      "😻"
+     ]
+    },
+    {
+     "file": "packs/pk-billi/da7fd6d753cf/04.webp",
+     "thumb": "packs/pk-billi/da7fd6d753cf/thumbs/04.webp",
+     "name": "Uff",
+     "emoji": [
+      "🙀"
+     ]
+    },
+    {
+     "file": "packs/pk-billi/da7fd6d753cf/05.webp",
+     "thumb": "packs/pk-billi/da7fd6d753cf/thumbs/05.webp",
+     "name": "Rula Diya",
+     "emoji": [
+      "😿"
+     ]
+    },
+    {
+     "file": "packs/pk-billi/da7fd6d753cf/06.webp",
+     "thumb": "packs/pk-billi/da7fd6d753cf/thumbs/06.webp",
+     "name": "Naraz Hoon",
+     "emoji": [
+      "😾"
+     ]
+    },
+    {
+     "file": "packs/pk-billi/da7fd6d753cf/07.webp",
+     "thumb": "packs/pk-billi/da7fd6d753cf/thumbs/07.webp",
+     "name": "Muah!",
+     "emoji": [
+      "😽"
+     ]
+    },
+    {
+     "file": "packs/pk-billi/da7fd6d753cf/08.webp",
+     "thumb": "packs/pk-billi/da7fd6d753cf/thumbs/08.webp",
+     "name": "Hahaha",
+     "emoji": [
+      "😹"
+     ]
+    },
+    {
+     "file": "packs/pk-billi/da7fd6d753cf/09.webp",
+     "thumb": "packs/pk-billi/da7fd6d753cf/thumbs/09.webp",
+     "name": "Billi Rani",
+     "emoji": [
+      "🐱"
+     ]
+    },
+    {
+     "file": "packs/pk-billi/da7fd6d753cf/10.webp",
+     "thumb": "packs/pk-billi/da7fd6d753cf/thumbs/10.webp",
+     "name": "Mood Off",
+     "emoji": [
+      "🐈‍⬛"
+     ]
+    }
+   ]
+  },
   {
    "id": "pk-animals",
    "name": "Jaanwar Dost",
@@ -376,6 +473,119 @@
    ]
   },
   {
+   "id": "pk-shaadi",
+   "name": "Shaadi Season",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "FESTIVALS",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "version": "d51e13f069d9",
+   "sizeBytes": 335918,
+   "tray": "packs/pk-shaadi/d51e13f069d9/tray.png",
+   "stickers": [
+    {
+     "file": "packs/pk-shaadi/d51e13f069d9/01.webp",
+     "thumb": "packs/pk-shaadi/d51e13f069d9/thumbs/01.webp",
+     "name": "Shaadi Mubarak",
+     "emoji": [
+      "💍"
+     ]
+    },
+    {
+     "file": "packs/pk-shaadi/d51e13f069d9/02.webp",
+     "thumb": "packs/pk-shaadi/d51e13f069d9/thumbs/02.webp",
+     "name": "Mubarak Ho Dono Ko",
+     "emoji": [
+      "💕"
+     ]
+    },
+    {
+     "file": "packs/pk-shaadi/d51e13f069d9/03.webp",
+     "thumb": "packs/pk-shaadi/d51e13f069d9/thumbs/03.webp",
+     "name": "Dholki Night",
+     "emoji": [
+      "🎶"
+     ]
+    },
+    {
+     "file": "packs/pk-shaadi/d51e13f069d9/04.webp",
+     "thumb": "packs/pk-shaadi/d51e13f069d9/thumbs/04.webp",
+     "name": "Salami Do!",
+     "emoji": [
+      "🎁"
+     ]
+    },
+    {
+     "file": "packs/pk-shaadi/d51e13f069d9/05.webp",
+     "thumb": "packs/pk-shaadi/d51e13f069d9/thumbs/05.webp",
+     "name": "Shaadi Ka Khana",
+     "emoji": [
+      "🍛"
+     ]
+    },
+    {
+     "file": "packs/pk-shaadi/d51e13f069d9/06.webp",
+     "thumb": "packs/pk-shaadi/d51e13f069d9/thumbs/06.webp",
+     "name": "Naacho!",
+     "emoji": [
+      "💃"
+     ]
+    },
+    {
+     "file": "packs/pk-shaadi/d51e13f069d9/07.webp",
+     "thumb": "packs/pk-shaadi/d51e13f069d9/thumbs/07.webp",
+     "name": "Bhangra Time",
+     "emoji": [
+      "🕺"
+     ]
+    },
+    {
+     "file": "packs/pk-shaadi/d51e13f069d9/08.webp",
+     "thumb": "packs/pk-shaadi/d51e13f069d9/thumbs/08.webp",
+     "name": "Baraat Aa Gayi",
+     "emoji": [
+      "🎉"
+     ]
+    },
+    {
+     "file": "packs/pk-shaadi/d51e13f069d9/09.webp",
+     "thumb": "packs/pk-shaadi/d51e13f069d9/thumbs/09.webp",
+     "name": "Photo Lo!",
+     "emoji": [
+      "📸"
+     ]
+    },
+    {
+     "file": "packs/pk-shaadi/d51e13f069d9/10.webp",
+     "thumb": "packs/pk-shaadi/d51e13f069d9/thumbs/10.webp",
+     "name": "Mehndi Mubarak",
+     "emoji": [
+      "✨"
+     ]
+    },
+    {
+     "file": "packs/pk-shaadi/d51e13f069d9/11.webp",
+     "thumb": "packs/pk-shaadi/d51e13f069d9/thumbs/11.webp",
+     "name": "Dulha Raja",
+     "emoji": [
+      "👑"
+     ]
+    },
+    {
+     "file": "packs/pk-shaadi/d51e13f069d9/12.webp",
+     "thumb": "packs/pk-shaadi/d51e13f069d9/thumbs/12.webp",
+     "name": "Dulhan Pyari Lag Rahi Hai",
+     "emoji": [
+      "💐"
+     ]
+    }
+   ]
+  },
+  {
    "id": "pk-chai",
    "name": "Chai & Khana",
    "creator": "Sticker Maker",
@@ -484,6 +694,313 @@
      "name": "Mirchi Tez Hai",
      "emoji": [
       "🌶️"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pk-dhaba",
+   "name": "Dhaba Specials",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "FOOD",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "version": "950888534220",
+   "sizeBytes": 246484,
+   "tray": "packs/pk-dhaba/950888534220/tray.png",
+   "stickers": [
+    {
+     "file": "packs/pk-dhaba/950888534220/01.webp",
+     "thumb": "packs/pk-dhaba/950888534220/thumbs/01.webp",
+     "name": "Haleem Ready",
+     "emoji": [
+      "🍲"
+     ]
+    },
+    {
+     "file": "packs/pk-dhaba/950888534220/02.webp",
+     "thumb": "packs/pk-dhaba/950888534220/thumbs/02.webp",
+     "name": "Karahi Mangwao",
+     "emoji": [
+      "🥘"
+     ]
+    },
+    {
+     "file": "packs/pk-dhaba/950888534220/03.webp",
+     "thumb": "packs/pk-dhaba/950888534220/thumbs/03.webp",
+     "name": "Garma Garam Naan",
+     "emoji": [
+      "🫓"
+     ]
+    },
+    {
+     "file": "packs/pk-dhaba/950888534220/04.webp",
+     "thumb": "packs/pk-dhaba/950888534220/thumbs/04.webp",
+     "name": "Nihari Time",
+     "emoji": [
+      "🍖"
+     ]
+    },
+    {
+     "file": "packs/pk-dhaba/950888534220/05.webp",
+     "thumb": "packs/pk-dhaba/950888534220/thumbs/05.webp",
+     "name": "Chicken Tikka",
+     "emoji": [
+      "🍗"
+     ]
+    },
+    {
+     "file": "packs/pk-dhaba/950888534220/06.webp",
+     "thumb": "packs/pk-dhaba/950888534220/thumbs/06.webp",
+     "name": "Lassi Pi Lo",
+     "emoji": [
+      "🥤"
+     ]
+    },
+    {
+     "file": "packs/pk-dhaba/950888534220/07.webp",
+     "thumb": "packs/pk-dhaba/950888534220/thumbs/07.webp",
+     "name": "Aam Ka Season",
+     "emoji": [
+      "🥭"
+     ]
+    },
+    {
+     "file": "packs/pk-dhaba/950888534220/08.webp",
+     "thumb": "packs/pk-dhaba/950888534220/thumbs/08.webp",
+     "name": "Kheer Bani Hai",
+     "emoji": [
+      "🍮"
+     ]
+    },
+    {
+     "file": "packs/pk-dhaba/950888534220/09.webp",
+     "thumb": "packs/pk-dhaba/950888534220/thumbs/09.webp",
+     "name": "Mithai Lao",
+     "emoji": [
+      "🍬"
+     ]
+    },
+    {
+     "file": "packs/pk-dhaba/950888534220/10.webp",
+     "thumb": "packs/pk-dhaba/950888534220/thumbs/10.webp",
+     "name": "Doodh Patti Ek",
+     "emoji": [
+      "🍵"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pk-ammi-abbu",
+   "name": "Ammi Abbu Kehte Hain",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "FUNNY",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "version": "54e592493416",
+   "sizeBytes": 254446,
+   "tray": "packs/pk-ammi-abbu/54e592493416/tray.png",
+   "stickers": [
+    {
+     "file": "packs/pk-ammi-abbu/54e592493416/01.webp",
+     "thumb": "packs/pk-ammi-abbu/54e592493416/thumbs/01.webp",
+     "name": "Beta Khana Kha Lo",
+     "emoji": [
+      "🥣"
+     ]
+    },
+    {
+     "file": "packs/pk-ammi-abbu/54e592493416/02.webp",
+     "thumb": "packs/pk-ammi-abbu/54e592493416/thumbs/02.webp",
+     "name": "Phone Chhoro!",
+     "emoji": [
+      "📱"
+     ]
+    },
+    {
+     "file": "packs/pk-ammi-abbu/54e592493416/03.webp",
+     "thumb": "packs/pk-ammi-abbu/54e592493416/thumbs/03.webp",
+     "name": "Jaldi So Jao",
+     "emoji": [
+      "😴"
+     ]
+    },
+    {
+     "file": "packs/pk-ammi-abbu/54e592493416/04.webp",
+     "thumb": "packs/pk-ammi-abbu/54e592493416/thumbs/04.webp",
+     "name": "Paise Ped Pe Nahi Lagte",
+     "emoji": [
+      "💰"
+     ]
+    },
+    {
+     "file": "packs/pk-ammi-abbu/54e592493416/05.webp",
+     "thumb": "packs/pk-ammi-abbu/54e592493416/thumbs/05.webp",
+     "name": "Kitne Baje Aaye?",
+     "emoji": [
+      "🕰️"
+     ]
+    },
+    {
+     "file": "packs/pk-ammi-abbu/54e592493416/06.webp",
+     "thumb": "packs/pk-ammi-abbu/54e592493416/thumbs/06.webp",
+     "name": "Padhai Karo",
+     "emoji": [
+      "📚"
+     ]
+    },
+    {
+     "file": "packs/pk-ammi-abbu/54e592493416/07.webp",
+     "thumb": "packs/pk-ammi-abbu/54e592493416/thumbs/07.webp",
+     "name": "Hamare Zamane Mein…",
+     "emoji": [
+      "🙄"
+     ]
+    },
+    {
+     "file": "packs/pk-ammi-abbu/54e592493416/08.webp",
+     "thumb": "packs/pk-ammi-abbu/54e592493416/thumbs/08.webp",
+     "name": "Kamra Saaf Karo",
+     "emoji": [
+      "🧹"
+     ]
+    },
+    {
+     "file": "packs/pk-ammi-abbu/54e592493416/09.webp",
+     "thumb": "packs/pk-ammi-abbu/54e592493416/thumbs/09.webp",
+     "name": "Love You Ammi Jaan",
+     "emoji": [
+      "❤️"
+     ]
+    },
+    {
+     "file": "packs/pk-ammi-abbu/54e592493416/10.webp",
+     "thumb": "packs/pk-ammi-abbu/54e592493416/thumbs/10.webp",
+     "name": "Duaon Mein Yaad Rakhna",
+     "emoji": [
+      "🙏"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pk-gamer",
+   "name": "Gamer Mode",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "FUNNY",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "version": "d9977d6b3e8e",
+   "sizeBytes": 242934,
+   "tray": "packs/pk-gamer/d9977d6b3e8e/tray.png",
+   "stickers": [
+    {
+     "file": "packs/pk-gamer/d9977d6b3e8e/01.webp",
+     "thumb": "packs/pk-gamer/d9977d6b3e8e/thumbs/01.webp",
+     "name": "Game On!",
+     "emoji": [
+      "🎮"
+     ]
+    },
+    {
+     "file": "packs/pk-gamer/d9977d6b3e8e/02.webp",
+     "thumb": "packs/pk-gamer/d9977d6b3e8e/thumbs/02.webp",
+     "name": "Ek Aur Round",
+     "emoji": [
+      "🕹️"
+     ]
+    },
+    {
+     "file": "packs/pk-gamer/d9977d6b3e8e/03.webp",
+     "thumb": "packs/pk-gamer/d9977d6b3e8e/thumbs/03.webp",
+     "name": "Victory!",
+     "emoji": [
+      "🏆"
+     ]
+    },
+    {
+     "file": "packs/pk-gamer/d9977d6b3e8e/04.webp",
+     "thumb": "packs/pk-gamer/d9977d6b3e8e/thumbs/04.webp",
+     "name": "Mar Gaya",
+     "emoji": [
+      "💀"
+     ]
+    },
+    {
+     "file": "packs/pk-gamer/d9977d6b3e8e/05.webp",
+     "thumb": "packs/pk-gamer/d9977d6b3e8e/thumbs/05.webp",
+     "name": "Rage Quit",
+     "emoji": [
+      "🤯"
+     ]
+    },
+    {
+     "file": "packs/pk-gamer/d9977d6b3e8e/06.webp",
+     "thumb": "packs/pk-gamer/d9977d6b3e8e/thumbs/06.webp",
+     "name": "Fight Karo",
+     "emoji": [
+      "⚔️"
+     ]
+    },
+    {
+     "file": "packs/pk-gamer/d9977d6b3e8e/07.webp",
+     "thumb": "packs/pk-gamer/d9977d6b3e8e/thumbs/07.webp",
+     "name": "Mic On Karo",
+     "emoji": [
+      "🎧"
+     ]
+    },
+    {
+     "file": "packs/pk-gamer/d9977d6b3e8e/08.webp",
+     "thumb": "packs/pk-gamer/d9977d6b3e8e/thumbs/08.webp",
+     "name": "Battery Low",
+     "emoji": [
+      "🪫"
+     ]
+    },
+    {
+     "file": "packs/pk-gamer/d9977d6b3e8e/09.webp",
+     "thumb": "packs/pk-gamer/d9977d6b3e8e/thumbs/09.webp",
+     "name": "Raat Ke 3 Baj Gaye",
+     "emoji": [
+      "😴"
+     ]
+    },
+    {
+     "file": "packs/pk-gamer/d9977d6b3e8e/10.webp",
+     "thumb": "packs/pk-gamer/d9977d6b3e8e/thumbs/10.webp",
+     "name": "Pro Player",
+     "emoji": [
+      "🔥"
+     ]
+    },
+    {
+     "file": "packs/pk-gamer/d9977d6b3e8e/11.webp",
+     "thumb": "packs/pk-gamer/d9977d6b3e8e/thumbs/11.webp",
+     "name": "Noob!",
+     "emoji": [
+      "🤡"
+     ]
+    },
+    {
+     "file": "packs/pk-gamer/d9977d6b3e8e/12.webp",
+     "thumb": "packs/pk-gamer/d9977d6b3e8e/thumbs/12.webp",
+     "name": "Jeet Gaye!",
+     "emoji": [
+      "🎉"
      ]
     }
    ]
@@ -618,6 +1135,200 @@
    ]
   },
   {
+   "id": "pk-morning",
+   "name": "Good Morning",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "GREETINGS",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "version": "a86715ece45d",
+   "sizeBytes": 210830,
+   "tray": "packs/pk-morning/a86715ece45d/tray.png",
+   "stickers": [
+    {
+     "file": "packs/pk-morning/a86715ece45d/01.webp",
+     "thumb": "packs/pk-morning/a86715ece45d/thumbs/01.webp",
+     "name": "Good Morning",
+     "emoji": [
+      "🌅"
+     ]
+    },
+    {
+     "file": "packs/pk-morning/a86715ece45d/02.webp",
+     "thumb": "packs/pk-morning/a86715ece45d/thumbs/02.webp",
+     "name": "Chai Ready Hai",
+     "emoji": [
+      "☕"
+     ]
+    },
+    {
+     "file": "packs/pk-morning/a86715ece45d/03.webp",
+     "thumb": "packs/pk-morning/a86715ece45d/thumbs/03.webp",
+     "name": "Rise & Shine",
+     "emoji": [
+      "🌞"
+     ]
+    },
+    {
+     "file": "packs/pk-morning/a86715ece45d/04.webp",
+     "thumb": "packs/pk-morning/a86715ece45d/thumbs/04.webp",
+     "name": "Utho Bhai!",
+     "emoji": [
+      "⏰"
+     ]
+    },
+    {
+     "file": "packs/pk-morning/a86715ece45d/05.webp",
+     "thumb": "packs/pk-morning/a86715ece45d/thumbs/05.webp",
+     "name": "Abhi Utha Hoon",
+     "emoji": [
+      "🥱"
+     ]
+    },
+    {
+     "file": "packs/pk-morning/a86715ece45d/06.webp",
+     "thumb": "packs/pk-morning/a86715ece45d/thumbs/06.webp",
+     "name": "Have a Nice Day",
+     "emoji": [
+      "🌻"
+     ]
+    },
+    {
+     "file": "packs/pk-morning/a86715ece45d/07.webp",
+     "thumb": "packs/pk-morning/a86715ece45d/thumbs/07.webp",
+     "name": "Nashta Karo",
+     "emoji": [
+      "🥐"
+     ]
+    },
+    {
+     "file": "packs/pk-morning/a86715ece45d/08.webp",
+     "thumb": "packs/pk-morning/a86715ece45d/thumbs/08.webp",
+     "name": "Pyari Subah",
+     "emoji": [
+      "🌹"
+     ]
+    },
+    {
+     "file": "packs/pk-morning/a86715ece45d/09.webp",
+     "thumb": "packs/pk-morning/a86715ece45d/thumbs/09.webp",
+     "name": "Fresh Feel Ho Raha Hai",
+     "emoji": [
+      "😊"
+     ]
+    },
+    {
+     "file": "packs/pk-morning/a86715ece45d/10.webp",
+     "thumb": "packs/pk-morning/a86715ece45d/thumbs/10.webp",
+     "name": "Subah Ki Dua",
+     "emoji": [
+      "🙏"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pk-night",
+   "name": "Good Night",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "GREETINGS",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "version": "2cb4c5451478",
+   "sizeBytes": 200300,
+   "tray": "packs/pk-night/2cb4c5451478/tray.png",
+   "stickers": [
+    {
+     "file": "packs/pk-night/2cb4c5451478/01.webp",
+     "thumb": "packs/pk-night/2cb4c5451478/thumbs/01.webp",
+     "name": "Good Night",
+     "emoji": [
+      "🌙"
+     ]
+    },
+    {
+     "file": "packs/pk-night/2cb4c5451478/02.webp",
+     "thumb": "packs/pk-night/2cb4c5451478/thumbs/02.webp",
+     "name": "So Jao Ab",
+     "emoji": [
+      "😴"
+     ]
+    },
+    {
+     "file": "packs/pk-night/2cb4c5451478/03.webp",
+     "thumb": "packs/pk-night/2cb4c5451478/thumbs/03.webp",
+     "name": "Sweet Dreams",
+     "emoji": [
+      "🌟"
+     ]
+    },
+    {
+     "file": "packs/pk-night/2cb4c5451478/04.webp",
+     "thumb": "packs/pk-night/2cb4c5451478/thumbs/04.webp",
+     "name": "Bistar Bula Raha Hai",
+     "emoji": [
+      "🛏️"
+     ]
+    },
+    {
+     "file": "packs/pk-night/2cb4c5451478/05.webp",
+     "thumb": "packs/pk-night/2cb4c5451478/thumbs/05.webp",
+     "name": "Neend Aa Gayi",
+     "emoji": [
+      "💤"
+     ]
+    },
+    {
+     "file": "packs/pk-night/2cb4c5451478/06.webp",
+     "thumb": "packs/pk-night/2cb4c5451478/thumbs/06.webp",
+     "name": "Night Night",
+     "emoji": [
+      "🧸"
+     ]
+    },
+    {
+     "file": "packs/pk-night/2cb4c5451478/07.webp",
+     "thumb": "packs/pk-night/2cb4c5451478/thumbs/07.webp",
+     "name": "Raat Ka Ullu",
+     "emoji": [
+      "🦉"
+     ]
+    },
+    {
+     "file": "packs/pk-night/2cb4c5451478/08.webp",
+     "thumb": "packs/pk-night/2cb4c5451478/thumbs/08.webp",
+     "name": "Phone Rakh Do",
+     "emoji": [
+      "📱"
+     ]
+    },
+    {
+     "file": "packs/pk-night/2cb4c5451478/09.webp",
+     "thumb": "packs/pk-night/2cb4c5451478/thumbs/09.webp",
+     "name": "Chand Taare",
+     "emoji": [
+      "🌌"
+     ]
+    },
+    {
+     "file": "packs/pk-night/2cb4c5451478/10.webp",
+     "thumb": "packs/pk-night/2cb4c5451478/thumbs/10.webp",
+     "name": "Allah Hafiz",
+     "emoji": [
+      "🙏"
+     ]
+    }
+   ]
+  },
+  {
    "id": "pk-salam",
    "name": "Salam & Duaein",
    "creator": "Sticker Maker",
@@ -747,6 +1458,103 @@
    ]
   },
   {
+   "id": "pk-shukriya",
+   "name": "Shukriya & Sorry",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "GREETINGS",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "version": "48b251847c7d",
+   "sizeBytes": 209400,
+   "tray": "packs/pk-shukriya/48b251847c7d/tray.png",
+   "stickers": [
+    {
+     "file": "packs/pk-shukriya/48b251847c7d/01.webp",
+     "thumb": "packs/pk-shukriya/48b251847c7d/thumbs/01.webp",
+     "name": "Thank You",
+     "emoji": [
+      "🙏"
+     ]
+    },
+    {
+     "file": "packs/pk-shukriya/48b251847c7d/02.webp",
+     "thumb": "packs/pk-shukriya/48b251847c7d/thumbs/02.webp",
+     "name": "Bohat Shukriya",
+     "emoji": [
+      "💖"
+     ]
+    },
+    {
+     "file": "packs/pk-shukriya/48b251847c7d/03.webp",
+     "thumb": "packs/pk-shukriya/48b251847c7d/thumbs/03.webp",
+     "name": "Thanks Yaar",
+     "emoji": [
+      "💐"
+     ]
+    },
+    {
+     "file": "packs/pk-shukriya/48b251847c7d/04.webp",
+     "thumb": "packs/pk-shukriya/48b251847c7d/thumbs/04.webp",
+     "name": "Meherbani",
+     "emoji": [
+      "😇"
+     ]
+    },
+    {
+     "file": "packs/pk-shukriya/48b251847c7d/05.webp",
+     "thumb": "packs/pk-shukriya/48b251847c7d/thumbs/05.webp",
+     "name": "Sorry Na",
+     "emoji": [
+      "🥺"
+     ]
+    },
+    {
+     "file": "packs/pk-shukriya/48b251847c7d/06.webp",
+     "thumb": "packs/pk-shukriya/48b251847c7d/thumbs/06.webp",
+     "name": "Maaf Kar Do",
+     "emoji": [
+      "🤗"
+     ]
+    },
+    {
+     "file": "packs/pk-shukriya/48b251847c7d/07.webp",
+     "thumb": "packs/pk-shukriya/48b251847c7d/thumbs/07.webp",
+     "name": "Galti Ho Gayi",
+     "emoji": [
+      "💔"
+     ]
+    },
+    {
+     "file": "packs/pk-shukriya/48b251847c7d/08.webp",
+     "thumb": "packs/pk-shukriya/48b251847c7d/thumbs/08.webp",
+     "name": "Dil Se Sorry",
+     "emoji": [
+      "🌹"
+     ]
+    },
+    {
+     "file": "packs/pk-shukriya/48b251847c7d/09.webp",
+     "thumb": "packs/pk-shukriya/48b251847c7d/thumbs/09.webp",
+     "name": "Koi Baat Nahi",
+     "emoji": [
+      "👌"
+     ]
+    },
+    {
+     "file": "packs/pk-shukriya/48b251847c7d/10.webp",
+     "thumb": "packs/pk-shukriya/48b251847c7d/thumbs/10.webp",
+     "name": "Phir Se Dost?",
+     "emoji": [
+      "🤝"
+     ]
+    }
+   ]
+  },
+  {
    "id": "pk-happy",
    "name": "Wah Kya Baat Hai",
    "creator": "Sticker Maker",
@@ -839,6 +1647,297 @@
      "name": "Done Hai!",
      "emoji": [
       "✅"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pk-weekend",
+   "name": "Weekend Vibes",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "HAPPY",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "version": "ec591a746b2d",
+   "sizeBytes": 231016,
+   "tray": "packs/pk-weekend/ec591a746b2d/tray.png",
+   "stickers": [
+    {
+     "file": "packs/pk-weekend/ec591a746b2d/01.webp",
+     "thumb": "packs/pk-weekend/ec591a746b2d/thumbs/01.webp",
+     "name": "Weekend Aa Gaya!",
+     "emoji": [
+      "🎉"
+     ]
+    },
+    {
+     "file": "packs/pk-weekend/ec591a746b2d/02.webp",
+     "thumb": "packs/pk-weekend/ec591a746b2d/thumbs/02.webp",
+     "name": "Aaj Sona Hai",
+     "emoji": [
+      "😴"
+     ]
+    },
+    {
+     "file": "packs/pk-weekend/ec591a746b2d/03.webp",
+     "thumb": "packs/pk-weekend/ec591a746b2d/thumbs/03.webp",
+     "name": "Movie Night",
+     "emoji": [
+      "🍿"
+     ]
+    },
+    {
+     "file": "packs/pk-weekend/ec591a746b2d/04.webp",
+     "thumb": "packs/pk-weekend/ec591a746b2d/thumbs/04.webp",
+     "name": "Bahar Khana Khaate Hain",
+     "emoji": [
+      "🍕"
+     ]
+    },
+    {
+     "file": "packs/pk-weekend/ec591a746b2d/05.webp",
+     "thumb": "packs/pk-weekend/ec591a746b2d/thumbs/05.webp",
+     "name": "Long Drive",
+     "emoji": [
+      "🚗"
+     ]
+    },
+    {
+     "file": "packs/pk-weekend/ec591a746b2d/06.webp",
+     "thumb": "packs/pk-weekend/ec591a746b2d/thumbs/06.webp",
+     "name": "Chill Mode",
+     "emoji": [
+      "🏖️"
+     ]
+    },
+    {
+     "file": "packs/pk-weekend/ec591a746b2d/07.webp",
+     "thumb": "packs/pk-weekend/ec591a746b2d/thumbs/07.webp",
+     "name": "Gaming Day",
+     "emoji": [
+      "🎮"
+     ]
+    },
+    {
+     "file": "packs/pk-weekend/ec591a746b2d/08.webp",
+     "thumb": "packs/pk-weekend/ec591a746b2d/thumbs/08.webp",
+     "name": "Shopping Time",
+     "emoji": [
+      "🛍️"
+     ]
+    },
+    {
+     "file": "packs/pk-weekend/ec591a746b2d/09.webp",
+     "thumb": "packs/pk-weekend/ec591a746b2d/thumbs/09.webp",
+     "name": "Ghar Pe Aaram",
+     "emoji": [
+      "🛋️"
+     ]
+    },
+    {
+     "file": "packs/pk-weekend/ec591a746b2d/10.webp",
+     "thumb": "packs/pk-weekend/ec591a746b2d/thumbs/10.webp",
+     "name": "Sunday Funday",
+     "emoji": [
+      "😎"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pk-yaari",
+   "name": "Yaari Dosti",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "HAPPY",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "version": "5172269a9222",
+   "sizeBytes": 207600,
+   "tray": "packs/pk-yaari/5172269a9222/tray.png",
+   "stickers": [
+    {
+     "file": "packs/pk-yaari/5172269a9222/01.webp",
+     "thumb": "packs/pk-yaari/5172269a9222/thumbs/01.webp",
+     "name": "Yaar Mera",
+     "emoji": [
+      "🤝"
+     ]
+    },
+    {
+     "file": "packs/pk-yaari/5172269a9222/02.webp",
+     "thumb": "packs/pk-yaari/5172269a9222/thumbs/02.webp",
+     "name": "Jhappi Pao",
+     "emoji": [
+      "🤗"
+     ]
+    },
+    {
+     "file": "packs/pk-yaari/5172269a9222/03.webp",
+     "thumb": "packs/pk-yaari/5172269a9222/thumbs/03.webp",
+     "name": "Kya Plan Hai?",
+     "emoji": [
+      "😏"
+     ]
+    },
+    {
+     "file": "packs/pk-yaari/5172269a9222/04.webp",
+     "thumb": "packs/pk-yaari/5172269a9222/thumbs/04.webp",
+     "name": "Chalo Ghoomne",
+     "emoji": [
+      "🚗"
+     ]
+    },
+    {
+     "file": "packs/pk-yaari/5172269a9222/05.webp",
+     "thumb": "packs/pk-yaari/5172269a9222/thumbs/05.webp",
+     "name": "Treat Teri Taraf Se",
+     "emoji": [
+      "🍕"
+     ]
+    },
+    {
+     "file": "packs/pk-yaari/5172269a9222/06.webp",
+     "thumb": "packs/pk-yaari/5172269a9222/thumbs/06.webp",
+     "name": "Pagal Dost",
+     "emoji": [
+      "😂"
+     ]
+    },
+    {
+     "file": "packs/pk-yaari/5172269a9222/07.webp",
+     "thumb": "packs/pk-yaari/5172269a9222/thumbs/07.webp",
+     "name": "Dosti Zindabad",
+     "emoji": [
+      "✌️"
+     ]
+    },
+    {
+     "file": "packs/pk-yaari/5172269a9222/08.webp",
+     "thumb": "packs/pk-yaari/5172269a9222/thumbs/08.webp",
+     "name": "Squad Goals",
+     "emoji": [
+      "😎"
+     ]
+    },
+    {
+     "file": "packs/pk-yaari/5172269a9222/09.webp",
+     "thumb": "packs/pk-yaari/5172269a9222/thumbs/09.webp",
+     "name": "Call Kar Na",
+     "emoji": [
+      "📞"
+     ]
+    },
+    {
+     "file": "packs/pk-yaari/5172269a9222/10.webp",
+     "thumb": "packs/pk-yaari/5172269a9222/thumbs/10.webp",
+     "name": "Hamesha Saath",
+     "emoji": [
+      "❤️"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pk-couple",
+   "name": "Couple Goals",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "LOVE",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "version": "69e67c08cc88",
+   "sizeBytes": 205338,
+   "tray": "packs/pk-couple/69e67c08cc88/tray.png",
+   "stickers": [
+    {
+     "file": "packs/pk-couple/69e67c08cc88/01.webp",
+     "thumb": "packs/pk-couple/69e67c08cc88/thumbs/01.webp",
+     "name": "Miss You",
+     "emoji": [
+      "🥺"
+     ]
+    },
+    {
+     "file": "packs/pk-couple/69e67c08cc88/02.webp",
+     "thumb": "packs/pk-couple/69e67c08cc88/thumbs/02.webp",
+     "name": "Love You Jaan",
+     "emoji": [
+      "🥰"
+     ]
+    },
+    {
+     "file": "packs/pk-couple/69e67c08cc88/03.webp",
+     "thumb": "packs/pk-couple/69e67c08cc88/thumbs/03.webp",
+     "name": "Coffee Date?",
+     "emoji": [
+      "☕"
+     ]
+    },
+    {
+     "file": "packs/pk-couple/69e67c08cc88/04.webp",
+     "thumb": "packs/pk-couple/69e67c08cc88/thumbs/04.webp",
+     "name": "Mera Dil",
+     "emoji": [
+      "❤️"
+     ]
+    },
+    {
+     "file": "packs/pk-couple/69e67c08cc88/05.webp",
+     "thumb": "packs/pk-couple/69e67c08cc88/thumbs/05.webp",
+     "name": "Tum Ho Na",
+     "emoji": [
+      "🤗"
+     ]
+    },
+    {
+     "file": "packs/pk-couple/69e67c08cc88/06.webp",
+     "thumb": "packs/pk-couple/69e67c08cc88/thumbs/06.webp",
+     "name": "Hamesha Saath",
+     "emoji": [
+      "💕"
+     ]
+    },
+    {
+     "file": "packs/pk-couple/69e67c08cc88/07.webp",
+     "thumb": "packs/pk-couple/69e67c08cc88/thumbs/07.webp",
+     "name": "Good Night Jaan",
+     "emoji": [
+      "🌙"
+     ]
+    },
+    {
+     "file": "packs/pk-couple/69e67c08cc88/08.webp",
+     "thumb": "packs/pk-couple/69e67c08cc88/thumbs/08.webp",
+     "name": "Naraz Ho?",
+     "emoji": [
+      "😡"
+     ]
+    },
+    {
+     "file": "packs/pk-couple/69e67c08cc88/09.webp",
+     "thumb": "packs/pk-couple/69e67c08cc88/thumbs/09.webp",
+     "name": "Muah!",
+     "emoji": [
+      "😘"
+     ]
+    },
+    {
+     "file": "packs/pk-couple/69e67c08cc88/10.webp",
+     "thumb": "packs/pk-couple/69e67c08cc88/thumbs/10.webp",
+     "name": "Forever",
+     "emoji": [
+      "♾️"
      ]
     }
    ]
@@ -957,6 +2056,216 @@
    ]
   },
   {
+   "id": "pk-desi",
+   "name": "Desi Dialogues",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "MEMES",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "version": "14acfab17fba",
+   "sizeBytes": 302912,
+   "tray": "packs/pk-desi/14acfab17fba/tray.png",
+   "stickers": [
+    {
+     "file": "packs/pk-desi/14acfab17fba/01.webp",
+     "thumb": "packs/pk-desi/14acfab17fba/thumbs/01.webp",
+     "name": "Chalo Phir",
+     "emoji": [
+      "🚶"
+     ]
+    },
+    {
+     "file": "packs/pk-desi/14acfab17fba/02.webp",
+     "thumb": "packs/pk-desi/14acfab17fba/thumbs/02.webp",
+     "name": "Koi Nahi",
+     "emoji": [
+      "😌"
+     ]
+    },
+    {
+     "file": "packs/pk-desi/14acfab17fba/03.webp",
+     "thumb": "packs/pk-desi/14acfab17fba/thumbs/03.webp",
+     "name": "Jaldi Karo!",
+     "emoji": [
+      "⏱️"
+     ]
+    },
+    {
+     "file": "packs/pk-desi/14acfab17fba/04.webp",
+     "thumb": "packs/pk-desi/14acfab17fba/thumbs/04.webp",
+     "name": "Bas Kar Do",
+     "emoji": [
+      "✋"
+     ]
+    },
+    {
+     "file": "packs/pk-desi/14acfab17fba/05.webp",
+     "thumb": "packs/pk-desi/14acfab17fba/thumbs/05.webp",
+     "name": "Mazaq Tha Yaar",
+     "emoji": [
+      "😜"
+     ]
+    },
+    {
+     "file": "packs/pk-desi/14acfab17fba/06.webp",
+     "thumb": "packs/pk-desi/14acfab17fba/thumbs/06.webp",
+     "name": "Theek Hai Phir",
+     "emoji": [
+      "👌"
+     ]
+    },
+    {
+     "file": "packs/pk-desi/14acfab17fba/07.webp",
+     "thumb": "packs/pk-desi/14acfab17fba/thumbs/07.webp",
+     "name": "Kuch Nahi Hota",
+     "emoji": [
+      "😎"
+     ]
+    },
+    {
+     "file": "packs/pk-desi/14acfab17fba/08.webp",
+     "thumb": "packs/pk-desi/14acfab17fba/thumbs/08.webp",
+     "name": "Abhi Aaya!",
+     "emoji": [
+      "🏃"
+     ]
+    },
+    {
+     "file": "packs/pk-desi/14acfab17fba/09.webp",
+     "thumb": "packs/pk-desi/14acfab17fba/thumbs/09.webp",
+     "name": "Hadd Hai",
+     "emoji": [
+      "🙄"
+     ]
+    },
+    {
+     "file": "packs/pk-desi/14acfab17fba/10.webp",
+     "thumb": "packs/pk-desi/14acfab17fba/thumbs/10.webp",
+     "name": "Arey Waah!",
+     "emoji": [
+      "🤩"
+     ]
+    },
+    {
+     "file": "packs/pk-desi/14acfab17fba/11.webp",
+     "thumb": "packs/pk-desi/14acfab17fba/thumbs/11.webp",
+     "name": "Kamaal Hai",
+     "emoji": [
+      "😮"
+     ]
+    },
+    {
+     "file": "packs/pk-desi/14acfab17fba/12.webp",
+     "thumb": "packs/pk-desi/14acfab17fba/thumbs/12.webp",
+     "name": "Sochna Padega",
+     "emoji": [
+      "🤔"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pk-mausam",
+   "name": "Mausam",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "NATURE",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "version": "50f2ec4dfe51",
+   "sizeBytes": 223996,
+   "tray": "packs/pk-mausam/50f2ec4dfe51/tray.png",
+   "stickers": [
+    {
+     "file": "packs/pk-mausam/50f2ec4dfe51/01.webp",
+     "thumb": "packs/pk-mausam/50f2ec4dfe51/thumbs/01.webp",
+     "name": "Barish Aa Gayi",
+     "emoji": [
+      "🌧️"
+     ]
+    },
+    {
+     "file": "packs/pk-mausam/50f2ec4dfe51/02.webp",
+     "thumb": "packs/pk-mausam/50f2ec4dfe51/thumbs/02.webp",
+     "name": "Garmi Se Bura Haal",
+     "emoji": [
+      "🥵"
+     ]
+    },
+    {
+     "file": "packs/pk-mausam/50f2ec4dfe51/03.webp",
+     "thumb": "packs/pk-mausam/50f2ec4dfe51/thumbs/03.webp",
+     "name": "Sardi Lag Rahi Hai",
+     "emoji": [
+      "🥶"
+     ]
+    },
+    {
+     "file": "packs/pk-mausam/50f2ec4dfe51/04.webp",
+     "thumb": "packs/pk-mausam/50f2ec4dfe51/thumbs/04.webp",
+     "name": "Chhatri Lao",
+     "emoji": [
+      "☔"
+     ]
+    },
+    {
+     "file": "packs/pk-mausam/50f2ec4dfe51/05.webp",
+     "thumb": "packs/pk-mausam/50f2ec4dfe51/thumbs/05.webp",
+     "name": "Thand Hai Bhai",
+     "emoji": [
+      "❄️"
+     ]
+    },
+    {
+     "file": "packs/pk-mausam/50f2ec4dfe51/06.webp",
+     "thumb": "packs/pk-mausam/50f2ec4dfe51/thumbs/06.webp",
+     "name": "Dhoop Tez Hai",
+     "emoji": [
+      "☀️"
+     ]
+    },
+    {
+     "file": "packs/pk-mausam/50f2ec4dfe51/07.webp",
+     "thumb": "packs/pk-mausam/50f2ec4dfe51/thumbs/07.webp",
+     "name": "Mausam Pyara Hai",
+     "emoji": [
+      "🌈"
+     ]
+    },
+    {
+     "file": "packs/pk-mausam/50f2ec4dfe51/08.webp",
+     "thumb": "packs/pk-mausam/50f2ec4dfe51/thumbs/08.webp",
+     "name": "Pakoray Aur Chai",
+     "emoji": [
+      "☕"
+     ]
+    },
+    {
+     "file": "packs/pk-mausam/50f2ec4dfe51/09.webp",
+     "thumb": "packs/pk-mausam/50f2ec4dfe51/thumbs/09.webp",
+     "name": "Light Chali Gayi",
+     "emoji": [
+      "💡"
+     ]
+    },
+    {
+     "file": "packs/pk-mausam/50f2ec4dfe51/10.webp",
+     "thumb": "packs/pk-mausam/50f2ec4dfe51/thumbs/10.webp",
+     "name": "Kulfi Kha Lo",
+     "emoji": [
+      "🍨"
+     ]
+    }
+   ]
+  },
+  {
    "id": "pk-replies",
    "name": "Haan Na Theek",
    "creator": "Sticker Maker",
@@ -1065,6 +2374,119 @@
      "name": "Chup!",
      "emoji": [
       "🤐"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pk-quick",
+   "name": "Quick Replies",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "REACTIONS",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "version": "6c20e7e5a92f",
+   "sizeBytes": 202302,
+   "tray": "packs/pk-quick/6c20e7e5a92f/tray.png",
+   "stickers": [
+    {
+     "file": "packs/pk-quick/6c20e7e5a92f/01.webp",
+     "thumb": "packs/pk-quick/6c20e7e5a92f/thumbs/01.webp",
+     "name": "OK",
+     "emoji": [
+      "👌"
+     ]
+    },
+    {
+     "file": "packs/pk-quick/6c20e7e5a92f/02.webp",
+     "thumb": "packs/pk-quick/6c20e7e5a92f/thumbs/02.webp",
+     "name": "Yes!",
+     "emoji": [
+      "✅"
+     ]
+    },
+    {
+     "file": "packs/pk-quick/6c20e7e5a92f/03.webp",
+     "thumb": "packs/pk-quick/6c20e7e5a92f/thumbs/03.webp",
+     "name": "No",
+     "emoji": [
+      "❌"
+     ]
+    },
+    {
+     "file": "packs/pk-quick/6c20e7e5a92f/04.webp",
+     "thumb": "packs/pk-quick/6c20e7e5a92f/thumbs/04.webp",
+     "name": "On My Way",
+     "emoji": [
+      "🏃"
+     ]
+    },
+    {
+     "file": "packs/pk-quick/6c20e7e5a92f/05.webp",
+     "thumb": "packs/pk-quick/6c20e7e5a92f/thumbs/05.webp",
+     "name": "Busy",
+     "emoji": [
+      "⌛"
+     ]
+    },
+    {
+     "file": "packs/pk-quick/6c20e7e5a92f/06.webp",
+     "thumb": "packs/pk-quick/6c20e7e5a92f/thumbs/06.webp",
+     "name": "Call Me",
+     "emoji": [
+      "📞"
+     ]
+    },
+    {
+     "file": "packs/pk-quick/6c20e7e5a92f/07.webp",
+     "thumb": "packs/pk-quick/6c20e7e5a92f/thumbs/07.webp",
+     "name": "LOL",
+     "emoji": [
+      "😂"
+     ]
+    },
+    {
+     "file": "packs/pk-quick/6c20e7e5a92f/08.webp",
+     "thumb": "packs/pk-quick/6c20e7e5a92f/thumbs/08.webp",
+     "name": "OMG",
+     "emoji": [
+      "😱"
+     ]
+    },
+    {
+     "file": "packs/pk-quick/6c20e7e5a92f/09.webp",
+     "thumb": "packs/pk-quick/6c20e7e5a92f/thumbs/09.webp",
+     "name": "Wow!",
+     "emoji": [
+      "🤩"
+     ]
+    },
+    {
+     "file": "packs/pk-quick/6c20e7e5a92f/10.webp",
+     "thumb": "packs/pk-quick/6c20e7e5a92f/thumbs/10.webp",
+     "name": "Thanks!",
+     "emoji": [
+      "🙏"
+     ]
+    },
+    {
+     "file": "packs/pk-quick/6c20e7e5a92f/11.webp",
+     "thumb": "packs/pk-quick/6c20e7e5a92f/thumbs/11.webp",
+     "name": "Sorry",
+     "emoji": [
+      "🥺"
+     ]
+    },
+    {
+     "file": "packs/pk-quick/6c20e7e5a92f/12.webp",
+     "thumb": "packs/pk-quick/6c20e7e5a92f/thumbs/12.webp",
+     "name": "BRB",
+     "emoji": [
+      "⏱️"
      ]
     }
    ]
@@ -1275,6 +2697,216 @@
      "name": "Match Lagao!",
      "emoji": [
       "📺"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pk-fitness",
+   "name": "Fitness",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "SPORTS",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "version": "1863acfdac34",
+   "sizeBytes": 249922,
+   "tray": "packs/pk-fitness/1863acfdac34/tray.png",
+   "stickers": [
+    {
+     "file": "packs/pk-fitness/1863acfdac34/01.webp",
+     "thumb": "packs/pk-fitness/1863acfdac34/thumbs/01.webp",
+     "name": "Gym Time!",
+     "emoji": [
+      "💪"
+     ]
+    },
+    {
+     "file": "packs/pk-fitness/1863acfdac34/02.webp",
+     "thumb": "packs/pk-fitness/1863acfdac34/thumbs/02.webp",
+     "name": "No Pain No Gain",
+     "emoji": [
+      "🏋️"
+     ]
+    },
+    {
+     "file": "packs/pk-fitness/1863acfdac34/03.webp",
+     "thumb": "packs/pk-fitness/1863acfdac34/thumbs/03.webp",
+     "name": "Chalo Walk Pe",
+     "emoji": [
+      "👟"
+     ]
+    },
+    {
+     "file": "packs/pk-fitness/1863acfdac34/04.webp",
+     "thumb": "packs/pk-fitness/1863acfdac34/thumbs/04.webp",
+     "name": "Diet Pe Hoon",
+     "emoji": [
+      "🥑"
+     ]
+    },
+    {
+     "file": "packs/pk-fitness/1863acfdac34/05.webp",
+     "thumb": "packs/pk-fitness/1863acfdac34/thumbs/05.webp",
+     "name": "Cheat Day!",
+     "emoji": [
+      "🍩"
+     ]
+    },
+    {
+     "file": "packs/pk-fitness/1863acfdac34/06.webp",
+     "thumb": "packs/pk-fitness/1863acfdac34/thumbs/06.webp",
+     "name": "Thak Gaya",
+     "emoji": [
+      "😩"
+     ]
+    },
+    {
+     "file": "packs/pk-fitness/1863acfdac34/07.webp",
+     "thumb": "packs/pk-fitness/1863acfdac34/thumbs/07.webp",
+     "name": "Calories Burn",
+     "emoji": [
+      "🔥"
+     ]
+    },
+    {
+     "file": "packs/pk-fitness/1863acfdac34/08.webp",
+     "thumb": "packs/pk-fitness/1863acfdac34/thumbs/08.webp",
+     "name": "Goal Poora",
+     "emoji": [
+      "🏆"
+     ]
+    },
+    {
+     "file": "packs/pk-fitness/1863acfdac34/09.webp",
+     "thumb": "packs/pk-fitness/1863acfdac34/thumbs/09.webp",
+     "name": "Protein Shake",
+     "emoji": [
+      "🥛"
+     ]
+    },
+    {
+     "file": "packs/pk-fitness/1863acfdac34/10.webp",
+     "thumb": "packs/pk-fitness/1863acfdac34/thumbs/10.webp",
+     "name": "Daud Lagao",
+     "emoji": [
+      "🏃"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pk-exam",
+   "name": "Exam Tension",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "WORK",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "version": "05046c957c08",
+   "sizeBytes": 314224,
+   "tray": "packs/pk-exam/05046c957c08/tray.png",
+   "stickers": [
+    {
+     "file": "packs/pk-exam/05046c957c08/01.webp",
+     "thumb": "packs/pk-exam/05046c957c08/thumbs/01.webp",
+     "name": "Padhai Shuru",
+     "emoji": [
+      "📚"
+     ]
+    },
+    {
+     "file": "packs/pk-exam/05046c957c08/02.webp",
+     "thumb": "packs/pk-exam/05046c957c08/thumbs/02.webp",
+     "name": "Paper Kal Hai",
+     "emoji": [
+      "😰"
+     ]
+    },
+    {
+     "file": "packs/pk-exam/05046c957c08/03.webp",
+     "thumb": "packs/pk-exam/05046c957c08/thumbs/03.webp",
+     "name": "Syllabus Khatam Nahi Hua",
+     "emoji": [
+      "🤯"
+     ]
+    },
+    {
+     "file": "packs/pk-exam/05046c957c08/04.webp",
+     "thumb": "packs/pk-exam/05046c957c08/thumbs/04.webp",
+     "name": "Raat Bhar Padha",
+     "emoji": [
+      "😴"
+     ]
+    },
+    {
+     "file": "packs/pk-exam/05046c957c08/05.webp",
+     "thumb": "packs/pk-exam/05046c957c08/thumbs/05.webp",
+     "name": "Last Minute Tayari",
+     "emoji": [
+      "✏️"
+     ]
+    },
+    {
+     "file": "packs/pk-exam/05046c957c08/06.webp",
+     "thumb": "packs/pk-exam/05046c957c08/thumbs/06.webp",
+     "name": "Full Marks!",
+     "emoji": [
+      "💯"
+     ]
+    },
+    {
+     "file": "packs/pk-exam/05046c957c08/07.webp",
+     "thumb": "packs/pk-exam/05046c957c08/thumbs/07.webp",
+     "name": "Ratta Lagaya",
+     "emoji": [
+      "🤡"
+     ]
+    },
+    {
+     "file": "packs/pk-exam/05046c957c08/08.webp",
+     "thumb": "packs/pk-exam/05046c957c08/thumbs/08.webp",
+     "name": "Result Aa Gaya",
+     "emoji": [
+      "🎉"
+     ]
+    },
+    {
+     "file": "packs/pk-exam/05046c957c08/09.webp",
+     "thumb": "packs/pk-exam/05046c957c08/thumbs/09.webp",
+     "name": "Paper Bura Gaya",
+     "emoji": [
+      "😭"
+     ]
+    },
+    {
+     "file": "packs/pk-exam/05046c957c08/10.webp",
+     "thumb": "packs/pk-exam/05046c957c08/thumbs/10.webp",
+     "name": "Dua Karo",
+     "emoji": [
+      "🙏"
+     ]
+    },
+    {
+     "file": "packs/pk-exam/05046c957c08/11.webp",
+     "thumb": "packs/pk-exam/05046c957c08/thumbs/11.webp",
+     "name": "Pass Ho Gaye!",
+     "emoji": [
+      "🎓"
+     ]
+    },
+    {
+     "file": "packs/pk-exam/05046c957c08/12.webp",
+     "thumb": "packs/pk-exam/05046c957c08/thumbs/12.webp",
+     "name": "Dimagh Ki Dahi",
+     "emoji": [
+      "🧠"
      ]
     }
    ]
