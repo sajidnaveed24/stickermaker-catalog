@@ -11,6 +11,7 @@ Sticker packs offered in the **Discover** tab of the Sticker Maker app. Publishe
 |---|---|---|---|
 | Billi Gang | ANIMALS | 10 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
 | Jaanwar Dost | ANIMALS | 10 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
+| Birthday Wishes | BIRTHDAY | 10 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
 | Saalgirah Mubarak | BIRTHDAY | 8 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
 | Eid & Ramzan | FESTIVALS | 12 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
 | Pakistan Zindabad | FESTIVALS | 8 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
@@ -22,16 +23,19 @@ Sticker packs offered in the **Discover** tab of the Sticker Maker app. Publishe
 | Kya Scene Hai | FUNNY | 14 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
 | Good Morning | GREETINGS | 10 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
 | Good Night | GREETINGS | 10 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
+| Hello & Goodbye | GREETINGS | 12 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
 | Salam & Duaein | GREETINGS | 14 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
 | Shukriya & Sorry | GREETINGS | 10 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
 | Wah Kya Baat Hai | HAPPY | 10 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
 | Weekend Vibes | HAPPY | 10 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
 | Yaari Dosti | HAPPY | 10 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
 | Couple Goals | LOVE | 10 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
+| Love You | LOVE | 12 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
 | Pyar Mohabbat | LOVE | 12 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
 | Desi Dialogues | MEMES | 12 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
 | Mausam | NATURE | 10 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
 | Haan Na Theek | REACTIONS | 12 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
+| Quick Replies | REACTIONS | 12 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
 | Quick Replies | REACTIONS | 12 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
 | Dil Toot Gaya | SAD | 10 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
 | Cricket Fever | SPORTS | 12 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
@@ -41,14 +45,18 @@ Sticker packs offered in the **Discover** tab of the Sticker Maker app. Publishe
 | Cute Animals | ANIMALS | 20 | Fluent Emoji by Microsoft (MIT licence) |
 | Happy Birthday | BIRTHDAY | 14 | Fluent Emoji by Microsoft (MIT licence) |
 | Celebrations | FESTIVALS | 16 | Fluent Emoji by Microsoft (MIT licence) |
+| Holidays | FESTIVALS | 10 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
 | Yummy Food | FOOD | 18 | Fluent Emoji by Microsoft (MIT licence) |
 | LOL & Silly | FUNNY | 18 | Fluent Emoji by Microsoft (MIT licence) |
 | Hello & Thanks | GREETINGS | 16 | Fluent Emoji by Microsoft (MIT licence) |
 | Good Vibes | HAPPY | 16 | Fluent Emoji by Microsoft (MIT licence) |
+| Moods | HAPPY | 12 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
 | Love & Hearts | LOVE | 18 | Fluent Emoji by Microsoft (MIT licence) |
+| Meme Words | MEMES | 12 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
 | Quick Reactions | REACTIONS | 18 | Fluent Emoji by Microsoft (MIT licence) |
 | Feeling Blue | SAD | 14 | Fluent Emoji by Microsoft (MIT licence) |
 | Game On | SPORTS | 16 | Fluent Emoji by Microsoft (MIT licence) |
+| Work & Study | WORK | 12 | Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence) |
 | Work Mode | WORK | 16 | Fluent Emoji by Microsoft (MIT licence) |
 | Animals 1 | ANIMALS | 22 | Fluent Emoji by Microsoft (MIT licence) |
 | Animals 2 | ANIMALS | 22 | Fluent Emoji by Microsoft (MIT licence) |
