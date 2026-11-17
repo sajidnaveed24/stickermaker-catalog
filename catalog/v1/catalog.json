@@ -1,7 +1,7 @@
 {
  "format": "stickermaker-catalog",
  "version": 1,
- "generated": "2026-11-15T11:44:14.416Z",
+ "generated": "2026-11-17T15:10:17.746Z",
  "packs": [
   {
    "id": "pk-billi",
@@ -105,6 +105,216 @@
      "name": "Mood Off",
      "emoji": [
       "🐈‍⬛"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en-cats",
+   "name": "Cat Mood",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "ANIMALS",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "languages": [
+    "en"
+   ],
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "added": "2026-11-17",
+   "version": "f4eb3395ac36",
+   "sizeBytes": 202938,
+   "tray": "packs/en-cats/f4eb3395ac36/tray.png",
+   "stickers": [
+    {
+     "file": "packs/en-cats/f4eb3395ac36/01.webp",
+     "thumb": "packs/en-cats/f4eb3395ac36/thumbs/01.webp",
+     "name": "Meow",
+     "emoji": [
+      "🐱"
+     ]
+    },
+    {
+     "file": "packs/en-cats/f4eb3395ac36/02.webp",
+     "thumb": "packs/en-cats/f4eb3395ac36/thumbs/02.webp",
+     "name": "Hi human",
+     "emoji": [
+      "😺"
+     ]
+    },
+    {
+     "file": "packs/en-cats/f4eb3395ac36/03.webp",
+     "thumb": "packs/en-cats/f4eb3395ac36/thumbs/03.webp",
+     "name": "Grumpy",
+     "emoji": [
+      "😾"
+     ]
+    },
+    {
+     "file": "packs/en-cats/f4eb3395ac36/04.webp",
+     "thumb": "packs/en-cats/f4eb3395ac36/thumbs/04.webp",
+     "name": "Not today",
+     "emoji": [
+      "🙀"
+     ]
+    },
+    {
+     "file": "packs/en-cats/f4eb3395ac36/05.webp",
+     "thumb": "packs/en-cats/f4eb3395ac36/thumbs/05.webp",
+     "name": "LOL",
+     "emoji": [
+      "😹"
+     ]
+    },
+    {
+     "file": "packs/en-cats/f4eb3395ac36/06.webp",
+     "thumb": "packs/en-cats/f4eb3395ac36/thumbs/06.webp",
+     "name": "Love you",
+     "emoji": [
+      "😻"
+     ]
+    },
+    {
+     "file": "packs/en-cats/f4eb3395ac36/07.webp",
+     "thumb": "packs/en-cats/f4eb3395ac36/thumbs/07.webp",
+     "name": "Kisses",
+     "emoji": [
+      "😽"
+     ]
+    },
+    {
+     "file": "packs/en-cats/f4eb3395ac36/08.webp",
+     "thumb": "packs/en-cats/f4eb3395ac36/thumbs/08.webp",
+     "name": "Nap time",
+     "emoji": [
+      "🐈"
+     ]
+    },
+    {
+     "file": "packs/en-cats/f4eb3395ac36/09.webp",
+     "thumb": "packs/en-cats/f4eb3395ac36/thumbs/09.webp",
+     "name": "Bad luck",
+     "emoji": [
+      "🐈‍⬛"
+     ]
+    },
+    {
+     "file": "packs/en-cats/f4eb3395ac36/10.webp",
+     "thumb": "packs/en-cats/f4eb3395ac36/thumbs/10.webp",
+     "name": "Feed me",
+     "emoji": [
+      "🐟"
+     ]
+    },
+    {
+     "file": "packs/en-cats/f4eb3395ac36/11.webp",
+     "thumb": "packs/en-cats/f4eb3395ac36/thumbs/11.webp",
+     "name": "Pawsome",
+     "emoji": [
+      "🐾"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en-dogs",
+   "name": "Dog Life",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "ANIMALS",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "languages": [
+    "en"
+   ],
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "added": "2026-11-17",
+   "version": "2f35b74ed922",
+   "sizeBytes": 228256,
+   "tray": "packs/en-dogs/2f35b74ed922/tray.png",
+   "stickers": [
+    {
+     "file": "packs/en-dogs/2f35b74ed922/01.webp",
+     "thumb": "packs/en-dogs/2f35b74ed922/thumbs/01.webp",
+     "name": "Woof!",
+     "emoji": [
+      "🐶"
+     ]
+    },
+    {
+     "file": "packs/en-dogs/2f35b74ed922/02.webp",
+     "thumb": "packs/en-dogs/2f35b74ed922/thumbs/02.webp",
+     "name": "Walkies?",
+     "emoji": [
+      "🐕"
+     ]
+    },
+    {
+     "file": "packs/en-dogs/2f35b74ed922/03.webp",
+     "thumb": "packs/en-dogs/2f35b74ed922/thumbs/03.webp",
+     "name": "Good boy",
+     "emoji": [
+      "🦮"
+     ]
+    },
+    {
+     "file": "packs/en-dogs/2f35b74ed922/04.webp",
+     "thumb": "packs/en-dogs/2f35b74ed922/thumbs/04.webp",
+     "name": "Fancy",
+     "emoji": [
+      "🐩"
+     ]
+    },
+    {
+     "file": "packs/en-dogs/2f35b74ed922/05.webp",
+     "thumb": "packs/en-dogs/2f35b74ed922/thumbs/05.webp",
+     "name": "Treat please",
+     "emoji": [
+      "🦴"
+     ]
+    },
+    {
+     "file": "packs/en-dogs/2f35b74ed922/06.webp",
+     "thumb": "packs/en-dogs/2f35b74ed922/thumbs/06.webp",
+     "name": "On duty",
+     "emoji": [
+      "🐕‍🦺"
+     ]
+    },
+    {
+     "file": "packs/en-dogs/2f35b74ed922/07.webp",
+     "thumb": "packs/en-dogs/2f35b74ed922/thumbs/07.webp",
+     "name": "Best friend",
+     "emoji": [
+      "🐾"
+     ]
+    },
+    {
+     "file": "packs/en-dogs/2f35b74ed922/08.webp",
+     "thumb": "packs/en-dogs/2f35b74ed922/thumbs/08.webp",
+     "name": "Play ball",
+     "emoji": [
+      "🎾"
+     ]
+    },
+    {
+     "file": "packs/en-dogs/2f35b74ed922/09.webp",
+     "thumb": "packs/en-dogs/2f35b74ed922/thumbs/09.webp",
+     "name": "Dog tired",
+     "emoji": [
+      "😴"
+     ]
+    },
+    {
+     "file": "packs/en-dogs/2f35b74ed922/10.webp",
+     "thumb": "packs/en-dogs/2f35b74ed922/thumbs/10.webp",
+     "name": "Puppy love",
+     "emoji": [
+      "❤️"
      ]
     }
    ]
@@ -529,6 +739,107 @@
    ]
   },
   {
+   "id": "en-holidays",
+   "name": "Holidays",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "FESTIVALS",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "languages": [
+    "en"
+   ],
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "added": "2026-11-15",
+   "version": "473b95b0c8ac",
+   "sizeBytes": 210770,
+   "tray": "packs/en-holidays/473b95b0c8ac/tray.png",
+   "stickers": [
+    {
+     "file": "packs/en-holidays/473b95b0c8ac/01.webp",
+     "thumb": "packs/en-holidays/473b95b0c8ac/thumbs/01.webp",
+     "name": "Merry Christmas",
+     "emoji": [
+      "🎄"
+     ]
+    },
+    {
+     "file": "packs/en-holidays/473b95b0c8ac/02.webp",
+     "thumb": "packs/en-holidays/473b95b0c8ac/thumbs/02.webp",
+     "name": "Ho Ho Ho",
+     "emoji": [
+      "🎅"
+     ]
+    },
+    {
+     "file": "packs/en-holidays/473b95b0c8ac/03.webp",
+     "thumb": "packs/en-holidays/473b95b0c8ac/thumbs/03.webp",
+     "name": "Happy New Year",
+     "emoji": [
+      "🎆"
+     ]
+    },
+    {
+     "file": "packs/en-holidays/473b95b0c8ac/04.webp",
+     "thumb": "packs/en-holidays/473b95b0c8ac/thumbs/04.webp",
+     "name": "Happy Halloween",
+     "emoji": [
+      "🎃"
+     ]
+    },
+    {
+     "file": "packs/en-holidays/473b95b0c8ac/05.webp",
+     "thumb": "packs/en-holidays/473b95b0c8ac/thumbs/05.webp",
+     "name": "Happy Diwali",
+     "emoji": [
+      "🪔"
+     ]
+    },
+    {
+     "file": "packs/en-holidays/473b95b0c8ac/06.webp",
+     "thumb": "packs/en-holidays/473b95b0c8ac/thumbs/06.webp",
+     "name": "Eid Mubarak",
+     "emoji": [
+      "🌙"
+     ]
+    },
+    {
+     "file": "packs/en-holidays/473b95b0c8ac/07.webp",
+     "thumb": "packs/en-holidays/473b95b0c8ac/thumbs/07.webp",
+     "name": "Happy Lunar New Year",
+     "emoji": [
+      "🧧"
+     ]
+    },
+    {
+     "file": "packs/en-holidays/473b95b0c8ac/08.webp",
+     "thumb": "packs/en-holidays/473b95b0c8ac/thumbs/08.webp",
+     "name": "Happy Easter",
+     "emoji": [
+      "🐰"
+     ]
+    },
+    {
+     "file": "packs/en-holidays/473b95b0c8ac/09.webp",
+     "thumb": "packs/en-holidays/473b95b0c8ac/thumbs/09.webp",
+     "name": "Let it snow",
+     "emoji": [
+      "☃️"
+     ]
+    },
+    {
+     "file": "packs/en-holidays/473b95b0c8ac/10.webp",
+     "thumb": "packs/en-holidays/473b95b0c8ac/thumbs/10.webp",
+     "name": "Happy Holidays",
+     "emoji": [
+      "🎉"
+     ]
+    }
+   ]
+  },
+  {
    "id": "pk-pakistan",
    "name": "Pakistan Zindabad",
    "creator": "Sticker Maker",
@@ -736,6 +1047,229 @@
      "name": "Dulhan Pyari Lag Rahi Hai",
      "emoji": [
       "💐"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en-wishes",
+   "name": "Wishes",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "FESTIVALS",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "languages": [
+    "en"
+   ],
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "added": "2026-11-17",
+   "version": "d4889dda1f25",
+   "sizeBytes": 251492,
+   "tray": "packs/en-wishes/d4889dda1f25/tray.png",
+   "stickers": [
+    {
+     "file": "packs/en-wishes/d4889dda1f25/01.webp",
+     "thumb": "packs/en-wishes/d4889dda1f25/thumbs/01.webp",
+     "name": "Congratulations",
+     "emoji": [
+      "🎉"
+     ]
+    },
+    {
+     "file": "packs/en-wishes/d4889dda1f25/02.webp",
+     "thumb": "packs/en-wishes/d4889dda1f25/thumbs/02.webp",
+     "name": "You did it!",
+     "emoji": [
+      "🏆"
+     ]
+    },
+    {
+     "file": "packs/en-wishes/d4889dda1f25/03.webp",
+     "thumb": "packs/en-wishes/d4889dda1f25/thumbs/03.webp",
+     "name": "Good luck",
+     "emoji": [
+      "🍀"
+     ]
+    },
+    {
+     "file": "packs/en-wishes/d4889dda1f25/04.webp",
+     "thumb": "packs/en-wishes/d4889dda1f25/thumbs/04.webp",
+     "name": "Happy Graduation",
+     "emoji": [
+      "🎓"
+     ]
+    },
+    {
+     "file": "packs/en-wishes/d4889dda1f25/05.webp",
+     "thumb": "packs/en-wishes/d4889dda1f25/thumbs/05.webp",
+     "name": "Happy Wedding",
+     "emoji": [
+      "💍"
+     ]
+    },
+    {
+     "file": "packs/en-wishes/d4889dda1f25/06.webp",
+     "thumb": "packs/en-wishes/d4889dda1f25/thumbs/06.webp",
+     "name": "Welcome baby",
+     "emoji": [
+      "🍼"
+     ]
+    },
+    {
+     "file": "packs/en-wishes/d4889dda1f25/07.webp",
+     "thumb": "packs/en-wishes/d4889dda1f25/thumbs/07.webp",
+     "name": "Get well soon",
+     "emoji": [
+      "💊"
+     ]
+    },
+    {
+     "file": "packs/en-wishes/d4889dda1f25/08.webp",
+     "thumb": "packs/en-wishes/d4889dda1f25/thumbs/08.webp",
+     "name": "New home",
+     "emoji": [
+      "🏠"
+     ]
+    },
+    {
+     "file": "packs/en-wishes/d4889dda1f25/09.webp",
+     "thumb": "packs/en-wishes/d4889dda1f25/thumbs/09.webp",
+     "name": "Safe travels",
+     "emoji": [
+      "✈️"
+     ]
+    },
+    {
+     "file": "packs/en-wishes/d4889dda1f25/10.webp",
+     "thumb": "packs/en-wishes/d4889dda1f25/thumbs/10.webp",
+     "name": "Best wishes",
+     "emoji": [
+      "💐"
+     ]
+    },
+    {
+     "file": "packs/en-wishes/d4889dda1f25/11.webp",
+     "thumb": "packs/en-wishes/d4889dda1f25/thumbs/11.webp",
+     "name": "Proud of you",
+     "emoji": [
+      "🌟"
+     ]
+    },
+    {
+     "file": "packs/en-wishes/d4889dda1f25/12.webp",
+     "thumb": "packs/en-wishes/d4889dda1f25/thumbs/12.webp",
+     "name": "Fingers crossed",
+     "emoji": [
+      "🤞"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pk-biryani",
+   "name": "Biryani Lovers",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "FOOD",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "languages": [
+    "ur",
+    "hi"
+   ],
+   "regions": [
+    "PK",
+    "IN"
+   ],
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "added": "2026-11-17",
+   "version": "0eeb701ff433",
+   "sizeBytes": 274724,
+   "tray": "packs/pk-biryani/0eeb701ff433/tray.png",
+   "stickers": [
+    {
+     "file": "packs/pk-biryani/0eeb701ff433/01.webp",
+     "thumb": "packs/pk-biryani/0eeb701ff433/thumbs/01.webp",
+     "name": "Biryani Ban Rahi Hai",
+     "emoji": [
+      "🍲"
+     ]
+    },
+    {
+     "file": "packs/pk-biryani/0eeb701ff433/02.webp",
+     "thumb": "packs/pk-biryani/0eeb701ff433/thumbs/02.webp",
+     "name": "Wah Kya Taste Hai",
+     "emoji": [
+      "😋"
+     ]
+    },
+    {
+     "file": "packs/pk-biryani/0eeb701ff433/03.webp",
+     "thumb": "packs/pk-biryani/0eeb701ff433/thumbs/03.webp",
+     "name": "Aur Chawal Do",
+     "emoji": [
+      "🍚"
+     ]
+    },
+    {
+     "file": "packs/pk-biryani/0eeb701ff433/04.webp",
+     "thumb": "packs/pk-biryani/0eeb701ff433/thumbs/04.webp",
+     "name": "Leg Piece Mera",
+     "emoji": [
+      "🍗"
+     ]
+    },
+    {
+     "file": "packs/pk-biryani/0eeb701ff433/05.webp",
+     "thumb": "packs/pk-biryani/0eeb701ff433/thumbs/05.webp",
+     "name": "Khushboo Aa Rahi Hai",
+     "emoji": [
+      "🤤"
+     ]
+    },
+    {
+     "file": "packs/pk-biryani/0eeb701ff433/06.webp",
+     "thumb": "packs/pk-biryani/0eeb701ff433/thumbs/06.webp",
+     "name": "Mirchi Tez Hai",
+     "emoji": [
+      "🌶️"
+     ]
+    },
+    {
+     "file": "packs/pk-biryani/0eeb701ff433/07.webp",
+     "thumb": "packs/pk-biryani/0eeb701ff433/thumbs/07.webp",
+     "name": "Khana Lag Gaya",
+     "emoji": [
+      "🍽️"
+     ]
+    },
+    {
+     "file": "packs/pk-biryani/0eeb701ff433/08.webp",
+     "thumb": "packs/pk-biryani/0eeb701ff433/thumbs/08.webp",
+     "name": "Aloo Wali Ya Bina Aloo?",
+     "emoji": [
+      "🥔"
+     ]
+    },
+    {
+     "file": "packs/pk-biryani/0eeb701ff433/09.webp",
+     "thumb": "packs/pk-biryani/0eeb701ff433/thumbs/09.webp",
+     "name": "Biryani Is Love",
+     "emoji": [
+      "❤️"
+     ]
+    },
+    {
+     "file": "packs/pk-biryani/0eeb701ff433/10.webp",
+     "thumb": "packs/pk-biryani/0eeb701ff433/thumbs/10.webp",
+     "name": "Doosri Plate Please",
+     "emoji": [
+      "🥰"
      ]
     }
    ]
@@ -969,6 +1503,123 @@
    ]
   },
   {
+   "id": "en-hungry",
+   "name": "Hungry!",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "FOOD",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "languages": [
+    "en"
+   ],
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "added": "2026-11-17",
+   "version": "8d3776f49a77",
+   "sizeBytes": 272062,
+   "tray": "packs/en-hungry/8d3776f49a77/tray.png",
+   "stickers": [
+    {
+     "file": "packs/en-hungry/8d3776f49a77/01.webp",
+     "thumb": "packs/en-hungry/8d3776f49a77/thumbs/01.webp",
+     "name": "Hungry!",
+     "emoji": [
+      "🤤"
+     ]
+    },
+    {
+     "file": "packs/en-hungry/8d3776f49a77/02.webp",
+     "thumb": "packs/en-hungry/8d3776f49a77/thumbs/02.webp",
+     "name": "Pizza time",
+     "emoji": [
+      "🍕"
+     ]
+    },
+    {
+     "file": "packs/en-hungry/8d3776f49a77/03.webp",
+     "thumb": "packs/en-hungry/8d3776f49a77/thumbs/03.webp",
+     "name": "Burger please",
+     "emoji": [
+      "🍔"
+     ]
+    },
+    {
+     "file": "packs/en-hungry/8d3776f49a77/04.webp",
+     "thumb": "packs/en-hungry/8d3776f49a77/thumbs/04.webp",
+     "name": "Yummy!",
+     "emoji": [
+      "😋"
+     ]
+    },
+    {
+     "file": "packs/en-hungry/8d3776f49a77/05.webp",
+     "thumb": "packs/en-hungry/8d3776f49a77/thumbs/05.webp",
+     "name": "Noodles!",
+     "emoji": [
+      "🍜"
+     ]
+    },
+    {
+     "file": "packs/en-hungry/8d3776f49a77/06.webp",
+     "thumb": "packs/en-hungry/8d3776f49a77/thumbs/06.webp",
+     "name": "Treat yourself",
+     "emoji": [
+      "🍩"
+     ]
+    },
+    {
+     "file": "packs/en-hungry/8d3776f49a77/07.webp",
+     "thumb": "packs/en-hungry/8d3776f49a77/thumbs/07.webp",
+     "name": "Ice cream mood",
+     "emoji": [
+      "🍦"
+     ]
+    },
+    {
+     "file": "packs/en-hungry/8d3776f49a77/08.webp",
+     "thumb": "packs/en-hungry/8d3776f49a77/thumbs/08.webp",
+     "name": "Tea break",
+     "emoji": [
+      "☕"
+     ]
+    },
+    {
+     "file": "packs/en-hungry/8d3776f49a77/09.webp",
+     "thumb": "packs/en-hungry/8d3776f49a77/thumbs/09.webp",
+     "name": "Fries please",
+     "emoji": [
+      "🍟"
+     ]
+    },
+    {
+     "file": "packs/en-hungry/8d3776f49a77/10.webp",
+     "thumb": "packs/en-hungry/8d3776f49a77/thumbs/10.webp",
+     "name": "Taco Tuesday",
+     "emoji": [
+      "🌮"
+     ]
+    },
+    {
+     "file": "packs/en-hungry/8d3776f49a77/11.webp",
+     "thumb": "packs/en-hungry/8d3776f49a77/thumbs/11.webp",
+     "name": "Dessert first",
+     "emoji": [
+      "🍰"
+     ]
+    },
+    {
+     "file": "packs/en-hungry/8d3776f49a77/12.webp",
+     "thumb": "packs/en-hungry/8d3776f49a77/thumbs/12.webp",
+     "name": "Lunch?",
+     "emoji": [
+      "🍽️"
+     ]
+    }
+   ]
+  },
+  {
    "id": "pk-ammi-abbu",
    "name": "Ammi Abbu Kehte Hain",
    "creator": "Sticker Maker",
@@ -1070,6 +1721,112 @@
      "name": "Duaon Mein Yaad Rakhna",
      "emoji": [
       "🙏"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pk-bijli",
+   "name": "Bijli Gayi",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "FUNNY",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "languages": [
+    "ur",
+    "hi"
+   ],
+   "regions": [
+    "PK",
+    "IN"
+   ],
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "added": "2026-11-17",
+   "version": "e215fa665f51",
+   "sizeBytes": 249440,
+   "tray": "packs/pk-bijli/e215fa665f51/tray.png",
+   "stickers": [
+    {
+     "file": "packs/pk-bijli/e215fa665f51/01.webp",
+     "thumb": "packs/pk-bijli/e215fa665f51/thumbs/01.webp",
+     "name": "Bijli Chali Gayi",
+     "emoji": [
+      "💡"
+     ]
+    },
+    {
+     "file": "packs/pk-bijli/e215fa665f51/02.webp",
+     "thumb": "packs/pk-bijli/e215fa665f51/thumbs/02.webp",
+     "name": "Garmi Se Bura Haal",
+     "emoji": [
+      "🥵"
+     ]
+    },
+    {
+     "file": "packs/pk-bijli/e215fa665f51/03.webp",
+     "thumb": "packs/pk-bijli/e215fa665f51/thumbs/03.webp",
+     "name": "Mombatti Jalao",
+     "emoji": [
+      "🕯️"
+     ]
+    },
+    {
+     "file": "packs/pk-bijli/e215fa665f51/04.webp",
+     "thumb": "packs/pk-bijli/e215fa665f51/thumbs/04.webp",
+     "name": "Phone Bhi Band",
+     "emoji": [
+      "🪫"
+     ]
+    },
+    {
+     "file": "packs/pk-bijli/e215fa665f51/05.webp",
+     "thumb": "packs/pk-bijli/e215fa665f51/thumbs/05.webp",
+     "name": "Light Aa Gayi!",
+     "emoji": [
+      "🔌"
+     ]
+    },
+    {
+     "file": "packs/pk-bijli/e215fa665f51/06.webp",
+     "thumb": "packs/pk-bijli/e215fa665f51/thumbs/06.webp",
+     "name": "Kab Aayegi?",
+     "emoji": [
+      "😭"
+     ]
+    },
+    {
+     "file": "packs/pk-bijli/e215fa665f51/07.webp",
+     "thumb": "packs/pk-bijli/e215fa665f51/thumbs/07.webp",
+     "name": "Do Ghante Aur",
+     "emoji": [
+      "⏳"
+     ]
+    },
+    {
+     "file": "packs/pk-bijli/e215fa665f51/08.webp",
+     "thumb": "packs/pk-bijli/e215fa665f51/thumbs/08.webp",
+     "name": "Hawa Do",
+     "emoji": [
+      "🌬️"
+     ]
+    },
+    {
+     "file": "packs/pk-bijli/e215fa665f51/09.webp",
+     "thumb": "packs/pk-bijli/e215fa665f51/thumbs/09.webp",
+     "name": "Bill Dekha?",
+     "emoji": [
+      "💸"
+     ]
+    },
+    {
+     "file": "packs/pk-bijli/e215fa665f51/10.webp",
+     "thumb": "packs/pk-bijli/e215fa665f51/thumbs/10.webp",
+     "name": "Itna Bill!",
+     "emoji": [
+      "😱"
      ]
     }
    ]
@@ -1335,6 +2092,213 @@
    ]
   },
   {
+   "id": "pk-mehman",
+   "name": "Mehman Aa Gaye",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "FUNNY",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "languages": [
+    "ur",
+    "hi"
+   ],
+   "regions": [
+    "PK",
+    "IN"
+   ],
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "added": "2026-11-17",
+   "version": "97723250381f",
+   "sizeBytes": 199094,
+   "tray": "packs/pk-mehman/97723250381f/tray.png",
+   "stickers": [
+    {
+     "file": "packs/pk-mehman/97723250381f/01.webp",
+     "thumb": "packs/pk-mehman/97723250381f/thumbs/01.webp",
+     "name": "Mehman Aa Gaye",
+     "emoji": [
+      "🚪"
+     ]
+    },
+    {
+     "file": "packs/pk-mehman/97723250381f/02.webp",
+     "thumb": "packs/pk-mehman/97723250381f/thumbs/02.webp",
+     "name": "Kamra Saaf Karo",
+     "emoji": [
+      "🏃"
+     ]
+    },
+    {
+     "file": "packs/pk-mehman/97723250381f/03.webp",
+     "thumb": "packs/pk-mehman/97723250381f/thumbs/03.webp",
+     "name": "Chai Banao",
+     "emoji": [
+      "🍵"
+     ]
+    },
+    {
+     "file": "packs/pk-mehman/97723250381f/04.webp",
+     "thumb": "packs/pk-mehman/97723250381f/thumbs/04.webp",
+     "name": "Biscuit Nikalo",
+     "emoji": [
+      "🍪"
+     ]
+    },
+    {
+     "file": "packs/pk-mehman/97723250381f/05.webp",
+     "thumb": "packs/pk-mehman/97723250381f/thumbs/05.webp",
+     "name": "Khush Aamdeed",
+     "emoji": [
+      "😅"
+     ]
+    },
+    {
+     "file": "packs/pk-mehman/97723250381f/06.webp",
+     "thumb": "packs/pk-mehman/97723250381f/thumbs/06.webp",
+     "name": "Kab Jayenge?",
+     "emoji": [
+      "🙄"
+     ]
+    },
+    {
+     "file": "packs/pk-mehman/97723250381f/07.webp",
+     "thumb": "packs/pk-mehman/97723250381f/thumbs/07.webp",
+     "name": "Kya Laye Ho?",
+     "emoji": [
+      "🎁"
+     ]
+    },
+    {
+     "file": "packs/pk-mehman/97723250381f/08.webp",
+     "thumb": "packs/pk-mehman/97723250381f/thumbs/08.webp",
+     "name": "Baithiye Na",
+     "emoji": [
+      "🛋️"
+     ]
+    },
+    {
+     "file": "packs/pk-mehman/97723250381f/09.webp",
+     "thumb": "packs/pk-mehman/97723250381f/thumbs/09.webp",
+     "name": "Raat Ke 12 Baj Gaye",
+     "emoji": [
+      "🥱"
+     ]
+    },
+    {
+     "file": "packs/pk-mehman/97723250381f/10.webp",
+     "thumb": "packs/pk-mehman/97723250381f/thumbs/10.webp",
+     "name": "Phir Aana",
+     "emoji": [
+      "👋"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en-morning",
+   "name": "Good Morning",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "GREETINGS",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "languages": [
+    "en"
+   ],
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "added": "2026-11-17",
+   "version": "009db294f5e8",
+   "sizeBytes": 211166,
+   "tray": "packs/en-morning/009db294f5e8/tray.png",
+   "stickers": [
+    {
+     "file": "packs/en-morning/009db294f5e8/01.webp",
+     "thumb": "packs/en-morning/009db294f5e8/thumbs/01.webp",
+     "name": "Good Morning",
+     "emoji": [
+      "🌅"
+     ]
+    },
+    {
+     "file": "packs/en-morning/009db294f5e8/02.webp",
+     "thumb": "packs/en-morning/009db294f5e8/thumbs/02.webp",
+     "name": "Morning Coffee",
+     "emoji": [
+      "☕"
+     ]
+    },
+    {
+     "file": "packs/en-morning/009db294f5e8/03.webp",
+     "thumb": "packs/en-morning/009db294f5e8/thumbs/03.webp",
+     "name": "Rise & Shine",
+     "emoji": [
+      "🌞"
+     ]
+    },
+    {
+     "file": "packs/en-morning/009db294f5e8/04.webp",
+     "thumb": "packs/en-morning/009db294f5e8/thumbs/04.webp",
+     "name": "Wake up!",
+     "emoji": [
+      "⏰"
+     ]
+    },
+    {
+     "file": "packs/en-morning/009db294f5e8/05.webp",
+     "thumb": "packs/en-morning/009db294f5e8/thumbs/05.webp",
+     "name": "5 more minutes",
+     "emoji": [
+      "🥱"
+     ]
+    },
+    {
+     "file": "packs/en-morning/009db294f5e8/06.webp",
+     "thumb": "packs/en-morning/009db294f5e8/thumbs/06.webp",
+     "name": "Have a great day",
+     "emoji": [
+      "🌻"
+     ]
+    },
+    {
+     "file": "packs/en-morning/009db294f5e8/07.webp",
+     "thumb": "packs/en-morning/009db294f5e8/thumbs/07.webp",
+     "name": "Breakfast time",
+     "emoji": [
+      "🥐"
+     ]
+    },
+    {
+     "file": "packs/en-morning/009db294f5e8/08.webp",
+     "thumb": "packs/en-morning/009db294f5e8/thumbs/08.webp",
+     "name": "Morning Sunshine",
+     "emoji": [
+      "🌹"
+     ]
+    },
+    {
+     "file": "packs/en-morning/009db294f5e8/09.webp",
+     "thumb": "packs/en-morning/009db294f5e8/thumbs/09.webp",
+     "name": "Blessed Morning",
+     "emoji": [
+      "😇"
+     ]
+    },
+    {
+     "file": "packs/en-morning/009db294f5e8/10.webp",
+     "thumb": "packs/en-morning/009db294f5e8/thumbs/10.webp",
+     "name": "Good vibes only",
+     "emoji": [
+      "🌈"
+     ]
+    }
+   ]
+  },
+  {
    "id": "pk-morning",
    "name": "Good Morning",
    "creator": "Sticker Maker",
@@ -1436,6 +2400,107 @@
      "name": "Subah Ki Dua",
      "emoji": [
       "🙏"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en-night",
+   "name": "Good Night",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "GREETINGS",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "languages": [
+    "en"
+   ],
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "added": "2026-11-17",
+   "version": "3d6245bfdd34",
+   "sizeBytes": 227092,
+   "tray": "packs/en-night/3d6245bfdd34/tray.png",
+   "stickers": [
+    {
+     "file": "packs/en-night/3d6245bfdd34/01.webp",
+     "thumb": "packs/en-night/3d6245bfdd34/thumbs/01.webp",
+     "name": "Good Night",
+     "emoji": [
+      "🌙"
+     ]
+    },
+    {
+     "file": "packs/en-night/3d6245bfdd34/02.webp",
+     "thumb": "packs/en-night/3d6245bfdd34/thumbs/02.webp",
+     "name": "Sleepy",
+     "emoji": [
+      "😴"
+     ]
+    },
+    {
+     "file": "packs/en-night/3d6245bfdd34/03.webp",
+     "thumb": "packs/en-night/3d6245bfdd34/thumbs/03.webp",
+     "name": "Sweet Dreams",
+     "emoji": [
+      "🌟"
+     ]
+    },
+    {
+     "file": "packs/en-night/3d6245bfdd34/04.webp",
+     "thumb": "packs/en-night/3d6245bfdd34/thumbs/04.webp",
+     "name": "Bedtime",
+     "emoji": [
+      "🛏️"
+     ]
+    },
+    {
+     "file": "packs/en-night/3d6245bfdd34/05.webp",
+     "thumb": "packs/en-night/3d6245bfdd34/thumbs/05.webp",
+     "name": "Zzz...",
+     "emoji": [
+      "💤"
+     ]
+    },
+    {
+     "file": "packs/en-night/3d6245bfdd34/06.webp",
+     "thumb": "packs/en-night/3d6245bfdd34/thumbs/06.webp",
+     "name": "Night night",
+     "emoji": [
+      "🧸"
+     ]
+    },
+    {
+     "file": "packs/en-night/3d6245bfdd34/07.webp",
+     "thumb": "packs/en-night/3d6245bfdd34/thumbs/07.webp",
+     "name": "Night owl",
+     "emoji": [
+      "🦉"
+     ]
+    },
+    {
+     "file": "packs/en-night/3d6245bfdd34/08.webp",
+     "thumb": "packs/en-night/3d6245bfdd34/thumbs/08.webp",
+     "name": "One more scroll",
+     "emoji": [
+      "📱"
+     ]
+    },
+    {
+     "file": "packs/en-night/3d6245bfdd34/09.webp",
+     "thumb": "packs/en-night/3d6245bfdd34/thumbs/09.webp",
+     "name": "Sleep tight",
+     "emoji": [
+      "🌌"
+     ]
+    },
+    {
+     "file": "packs/en-night/3d6245bfdd34/10.webp",
+     "thumb": "packs/en-night/3d6245bfdd34/thumbs/10.webp",
+     "name": "See you tomorrow",
+     "emoji": [
+      "🌝"
      ]
     }
    ]
@@ -1908,6 +2973,439 @@
    ]
   },
   {
+   "id": "en-sorry",
+   "name": "Sorry & Thanks",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "GREETINGS",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "languages": [
+    "en"
+   ],
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "added": "2026-11-17",
+   "version": "7365b36c7044",
+   "sizeBytes": 216016,
+   "tray": "packs/en-sorry/7365b36c7044/tray.png",
+   "stickers": [
+    {
+     "file": "packs/en-sorry/7365b36c7044/01.webp",
+     "thumb": "packs/en-sorry/7365b36c7044/thumbs/01.webp",
+     "name": "Sorry!",
+     "emoji": [
+      "🥺"
+     ]
+    },
+    {
+     "file": "packs/en-sorry/7365b36c7044/02.webp",
+     "thumb": "packs/en-sorry/7365b36c7044/thumbs/02.webp",
+     "name": "Please forgive me",
+     "emoji": [
+      "🙏"
+     ]
+    },
+    {
+     "file": "packs/en-sorry/7365b36c7044/03.webp",
+     "thumb": "packs/en-sorry/7365b36c7044/thumbs/03.webp",
+     "name": "Thank you so much",
+     "emoji": [
+      "💐"
+     ]
+    },
+    {
+     "file": "packs/en-sorry/7365b36c7044/04.webp",
+     "thumb": "packs/en-sorry/7365b36c7044/thumbs/04.webp",
+     "name": "Big hug",
+     "emoji": [
+      "🤗"
+     ]
+    },
+    {
+     "file": "packs/en-sorry/7365b36c7044/05.webp",
+     "thumb": "packs/en-sorry/7365b36c7044/thumbs/05.webp",
+     "name": "Oops",
+     "emoji": [
+      "🤭"
+     ]
+    },
+    {
+     "file": "packs/en-sorry/7365b36c7044/06.webp",
+     "thumb": "packs/en-sorry/7365b36c7044/thumbs/06.webp",
+     "name": "My bad",
+     "emoji": [
+      "😓"
+     ]
+    },
+    {
+     "file": "packs/en-sorry/7365b36c7044/07.webp",
+     "thumb": "packs/en-sorry/7365b36c7044/thumbs/07.webp",
+     "name": "You are the best",
+     "emoji": [
+      "😊"
+     ]
+    },
+    {
+     "file": "packs/en-sorry/7365b36c7044/08.webp",
+     "thumb": "packs/en-sorry/7365b36c7044/thumbs/08.webp",
+     "name": "Appreciate it",
+     "emoji": [
+      "💖"
+     ]
+    },
+    {
+     "file": "packs/en-sorry/7365b36c7044/09.webp",
+     "thumb": "packs/en-sorry/7365b36c7044/thumbs/09.webp",
+     "name": "No worries",
+     "emoji": [
+      "👍"
+     ]
+    },
+    {
+     "file": "packs/en-sorry/7365b36c7044/10.webp",
+     "thumb": "packs/en-sorry/7365b36c7044/thumbs/10.webp",
+     "name": "Grateful",
+     "emoji": [
+      "❤️"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en-friends",
+   "name": "Best Friends",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "HAPPY",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "languages": [
+    "en"
+   ],
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "added": "2026-11-17",
+   "version": "6be53529e779",
+   "sizeBytes": 210966,
+   "tray": "packs/en-friends/6be53529e779/tray.png",
+   "stickers": [
+    {
+     "file": "packs/en-friends/6be53529e779/01.webp",
+     "thumb": "packs/en-friends/6be53529e779/thumbs/01.webp",
+     "name": "Bestie",
+     "emoji": [
+      "🤝"
+     ]
+    },
+    {
+     "file": "packs/en-friends/6be53529e779/02.webp",
+     "thumb": "packs/en-friends/6be53529e779/thumbs/02.webp",
+     "name": "Friends forever",
+     "emoji": [
+      "🫂"
+     ]
+    },
+    {
+     "file": "packs/en-friends/6be53529e779/03.webp",
+     "thumb": "packs/en-friends/6be53529e779/thumbs/03.webp",
+     "name": "Inside joke",
+     "emoji": [
+      "😂"
+     ]
+    },
+    {
+     "file": "packs/en-friends/6be53529e779/04.webp",
+     "thumb": "packs/en-friends/6be53529e779/thumbs/04.webp",
+     "name": "Squad pic",
+     "emoji": [
+      "📸"
+     ]
+    },
+    {
+     "file": "packs/en-friends/6be53529e779/05.webp",
+     "thumb": "packs/en-friends/6be53529e779/thumbs/05.webp",
+     "name": "Pizza party",
+     "emoji": [
+      "🍕"
+     ]
+    },
+    {
+     "file": "packs/en-friends/6be53529e779/06.webp",
+     "thumb": "packs/en-friends/6be53529e779/thumbs/06.webp",
+     "name": "Game night",
+     "emoji": [
+      "🎮"
+     ]
+    },
+    {
+     "file": "packs/en-friends/6be53529e779/07.webp",
+     "thumb": "packs/en-friends/6be53529e779/thumbs/07.webp",
+     "name": "Movie night",
+     "emoji": [
+      "🍿"
+     ]
+    },
+    {
+     "file": "packs/en-friends/6be53529e779/08.webp",
+     "thumb": "packs/en-friends/6be53529e779/thumbs/08.webp",
+     "name": "Let us hang out",
+     "emoji": [
+      "🥳"
+     ]
+    },
+    {
+     "file": "packs/en-friends/6be53529e779/09.webp",
+     "thumb": "packs/en-friends/6be53529e779/thumbs/09.webp",
+     "name": "Pinky promise",
+     "emoji": [
+      "🤞"
+     ]
+    },
+    {
+     "file": "packs/en-friends/6be53529e779/10.webp",
+     "thumb": "packs/en-friends/6be53529e779/thumbs/10.webp",
+     "name": "Spill the tea",
+     "emoji": [
+      "🍵"
+     ]
+    },
+    {
+     "file": "packs/en-friends/6be53529e779/11.webp",
+     "thumb": "packs/en-friends/6be53529e779/thumbs/11.webp",
+     "name": "Love you bestie",
+     "emoji": [
+      "❤️"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en-moods",
+   "name": "Moods",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "HAPPY",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "languages": [
+    "en"
+   ],
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "added": "2026-11-15",
+   "version": "f4db08397141",
+   "sizeBytes": 241532,
+   "tray": "packs/en-moods/f4db08397141/tray.png",
+   "stickers": [
+    {
+     "file": "packs/en-moods/f4db08397141/01.webp",
+     "thumb": "packs/en-moods/f4db08397141/thumbs/01.webp",
+     "name": "Cool",
+     "emoji": [
+      "😎"
+     ]
+    },
+    {
+     "file": "packs/en-moods/f4db08397141/02.webp",
+     "thumb": "packs/en-moods/f4db08397141/thumbs/02.webp",
+     "name": "Angry!",
+     "emoji": [
+      "😡"
+     ]
+    },
+    {
+     "file": "packs/en-moods/f4db08397141/03.webp",
+     "thumb": "packs/en-moods/f4db08397141/thumbs/03.webp",
+     "name": "So sad",
+     "emoji": [
+      "😭"
+     ]
+    },
+    {
+     "file": "packs/en-moods/f4db08397141/04.webp",
+     "thumb": "packs/en-moods/f4db08397141/thumbs/04.webp",
+     "name": "Tired",
+     "emoji": [
+      "😴"
+     ]
+    },
+    {
+     "file": "packs/en-moods/f4db08397141/05.webp",
+     "thumb": "packs/en-moods/f4db08397141/thumbs/05.webp",
+     "name": "Mind blown",
+     "emoji": [
+      "🤯"
+     ]
+    },
+    {
+     "file": "packs/en-moods/f4db08397141/06.webp",
+     "thumb": "packs/en-moods/f4db08397141/thumbs/06.webp",
+     "name": "OMG",
+     "emoji": [
+      "😱"
+     ]
+    },
+    {
+     "file": "packs/en-moods/f4db08397141/07.webp",
+     "thumb": "packs/en-moods/f4db08397141/thumbs/07.webp",
+     "name": "Yay!",
+     "emoji": [
+      "🥳"
+     ]
+    },
+    {
+     "file": "packs/en-moods/f4db08397141/08.webp",
+     "thumb": "packs/en-moods/f4db08397141/thumbs/08.webp",
+     "name": "Meh",
+     "emoji": [
+      "😐"
+     ]
+    },
+    {
+     "file": "packs/en-moods/f4db08397141/09.webp",
+     "thumb": "packs/en-moods/f4db08397141/thumbs/09.webp",
+     "name": "Crazy",
+     "emoji": [
+      "🤪"
+     ]
+    },
+    {
+     "file": "packs/en-moods/f4db08397141/10.webp",
+     "thumb": "packs/en-moods/f4db08397141/thumbs/10.webp",
+     "name": "Dizzy",
+     "emoji": [
+      "🥴"
+     ]
+    },
+    {
+     "file": "packs/en-moods/f4db08397141/11.webp",
+     "thumb": "packs/en-moods/f4db08397141/thumbs/11.webp",
+     "name": "So hot",
+     "emoji": [
+      "🥵"
+     ]
+    },
+    {
+     "file": "packs/en-moods/f4db08397141/12.webp",
+     "thumb": "packs/en-moods/f4db08397141/thumbs/12.webp",
+     "name": "Freezing",
+     "emoji": [
+      "🥶"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pk-shopping",
+   "name": "Sale Lagi Hai",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "HAPPY",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "languages": [
+    "ur",
+    "hi"
+   ],
+   "regions": [
+    "PK",
+    "IN"
+   ],
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "added": "2026-11-17",
+   "version": "de2956841a66",
+   "sizeBytes": 236656,
+   "tray": "packs/pk-shopping/de2956841a66/tray.png",
+   "stickers": [
+    {
+     "file": "packs/pk-shopping/de2956841a66/01.webp",
+     "thumb": "packs/pk-shopping/de2956841a66/thumbs/01.webp",
+     "name": "Sale Lagi Hai",
+     "emoji": [
+      "🛍️"
+     ]
+    },
+    {
+     "file": "packs/pk-shopping/de2956841a66/02.webp",
+     "thumb": "packs/pk-shopping/de2956841a66/thumbs/02.webp",
+     "name": "Paise Khatam",
+     "emoji": [
+      "💰"
+     ]
+    },
+    {
+     "file": "packs/pk-shopping/de2956841a66/03.webp",
+     "thumb": "packs/pk-shopping/de2956841a66/thumbs/03.webp",
+     "name": "Card Swipe",
+     "emoji": [
+      "💳"
+     ]
+    },
+    {
+     "file": "packs/pk-shopping/de2956841a66/04.webp",
+     "thumb": "packs/pk-shopping/de2956841a66/thumbs/04.webp",
+     "name": "Naya Suit",
+     "emoji": [
+      "👗"
+     ]
+    },
+    {
+     "file": "packs/pk-shopping/de2956841a66/05.webp",
+     "thumb": "packs/pk-shopping/de2956841a66/thumbs/05.webp",
+     "name": "Joote Bhi Chahiye",
+     "emoji": [
+      "👠"
+     ]
+    },
+    {
+     "file": "packs/pk-shopping/de2956841a66/06.webp",
+     "thumb": "packs/pk-shopping/de2956841a66/thumbs/06.webp",
+     "name": "Kuch Pasand Nahi Aaya",
+     "emoji": [
+      "🤔"
+     ]
+    },
+    {
+     "file": "packs/pk-shopping/de2956841a66/07.webp",
+     "thumb": "packs/pk-shopping/de2956841a66/thumbs/07.webp",
+     "name": "Budget Khatam",
+     "emoji": [
+      "💸"
+     ]
+    },
+    {
+     "file": "packs/pk-shopping/de2956841a66/08.webp",
+     "thumb": "packs/pk-shopping/de2956841a66/thumbs/08.webp",
+     "name": "Parcel Aa Gaya",
+     "emoji": [
+      "📦"
+     ]
+    },
+    {
+     "file": "packs/pk-shopping/de2956841a66/09.webp",
+     "thumb": "packs/pk-shopping/de2956841a66/thumbs/09.webp",
+     "name": "Kitna Pyara Hai",
+     "emoji": [
+      "🤩"
+     ]
+    },
+    {
+     "file": "packs/pk-shopping/de2956841a66/10.webp",
+     "thumb": "packs/pk-shopping/de2956841a66/thumbs/10.webp",
+     "name": "Kitne Ka Hai?",
+     "emoji": [
+      "🤭"
+     ]
+    }
+   ]
+  },
+  {
    "id": "pk-happy",
    "name": "Wah Kya Baat Hai",
    "creator": "Sticker Maker",
@@ -2009,6 +3507,107 @@
      "name": "Done Hai!",
      "emoji": [
       "✅"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en-weekend",
+   "name": "Weekend Vibes",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "HAPPY",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "languages": [
+    "en"
+   ],
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "added": "2026-11-17",
+   "version": "6707deb03dd6",
+   "sizeBytes": 190646,
+   "tray": "packs/en-weekend/6707deb03dd6/tray.png",
+   "stickers": [
+    {
+     "file": "packs/en-weekend/6707deb03dd6/01.webp",
+     "thumb": "packs/en-weekend/6707deb03dd6/thumbs/01.webp",
+     "name": "Friday!",
+     "emoji": [
+      "🎉"
+     ]
+    },
+    {
+     "file": "packs/en-weekend/6707deb03dd6/02.webp",
+     "thumb": "packs/en-weekend/6707deb03dd6/thumbs/02.webp",
+     "name": "Sleep in",
+     "emoji": [
+      "😴"
+     ]
+    },
+    {
+     "file": "packs/en-weekend/6707deb03dd6/03.webp",
+     "thumb": "packs/en-weekend/6707deb03dd6/thumbs/03.webp",
+     "name": "Beach day",
+     "emoji": [
+      "🏖️"
+     ]
+    },
+    {
+     "file": "packs/en-weekend/6707deb03dd6/04.webp",
+     "thumb": "packs/en-weekend/6707deb03dd6/thumbs/04.webp",
+     "name": "Cheat day",
+     "emoji": [
+      "🍕"
+     ]
+    },
+    {
+     "file": "packs/en-weekend/6707deb03dd6/05.webp",
+     "thumb": "packs/en-weekend/6707deb03dd6/thumbs/05.webp",
+     "name": "Game time",
+     "emoji": [
+      "🎮"
+     ]
+    },
+    {
+     "file": "packs/en-weekend/6707deb03dd6/06.webp",
+     "thumb": "packs/en-weekend/6707deb03dd6/thumbs/06.webp",
+     "name": "Movie marathon",
+     "emoji": [
+      "🍿"
+     ]
+    },
+    {
+     "file": "packs/en-weekend/6707deb03dd6/07.webp",
+     "thumb": "packs/en-weekend/6707deb03dd6/thumbs/07.webp",
+     "name": "Lazy Sunday",
+     "emoji": [
+      "🛋️"
+     ]
+    },
+    {
+     "file": "packs/en-weekend/6707deb03dd6/08.webp",
+     "thumb": "packs/en-weekend/6707deb03dd6/thumbs/08.webp",
+     "name": "Road trip",
+     "emoji": [
+      "🚗"
+     ]
+    },
+    {
+     "file": "packs/en-weekend/6707deb03dd6/09.webp",
+     "thumb": "packs/en-weekend/6707deb03dd6/thumbs/09.webp",
+     "name": "Shopping!",
+     "emoji": [
+      "🛍️"
+     ]
+    },
+    {
+     "file": "packs/en-weekend/6707deb03dd6/10.webp",
+     "thumb": "packs/en-weekend/6707deb03dd6/thumbs/10.webp",
+     "name": "Monday again...",
+     "emoji": [
+      "😞"
      ]
     }
    ]
@@ -2693,6 +4292,232 @@
    ]
   },
   {
+   "id": "en-meme",
+   "name": "Meme Words",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "MEMES",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "languages": [
+    "en"
+   ],
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "added": "2026-11-15",
+   "version": "a97f45181c4e",
+   "sizeBytes": 228360,
+   "tray": "packs/en-meme/a97f45181c4e/tray.png",
+   "stickers": [
+    {
+     "file": "packs/en-meme/a97f45181c4e/01.webp",
+     "thumb": "packs/en-meme/a97f45181c4e/thumbs/01.webp",
+     "name": "Bruh",
+     "emoji": [
+      "😂"
+     ]
+    },
+    {
+     "file": "packs/en-meme/a97f45181c4e/02.webp",
+     "thumb": "packs/en-meme/a97f45181c4e/thumbs/02.webp",
+     "name": "Clown",
+     "emoji": [
+      "🤡"
+     ]
+    },
+    {
+     "file": "packs/en-meme/a97f45181c4e/03.webp",
+     "thumb": "packs/en-meme/a97f45181c4e/thumbs/03.webp",
+     "name": "Dead",
+     "emoji": [
+      "💀"
+     ]
+    },
+    {
+     "file": "packs/en-meme/a97f45181c4e/04.webp",
+     "thumb": "packs/en-meme/a97f45181c4e/thumbs/04.webp",
+     "name": "GOAT",
+     "emoji": [
+      "🐐"
+     ]
+    },
+    {
+     "file": "packs/en-meme/a97f45181c4e/05.webp",
+     "thumb": "packs/en-meme/a97f45181c4e/thumbs/05.webp",
+     "name": "Fire!",
+     "emoji": [
+      "🔥"
+     ]
+    },
+    {
+     "file": "packs/en-meme/a97f45181c4e/06.webp",
+     "thumb": "packs/en-meme/a97f45181c4e/thumbs/06.webp",
+     "name": "100%",
+     "emoji": [
+      "💯"
+     ]
+    },
+    {
+     "file": "packs/en-meme/a97f45181c4e/07.webp",
+     "thumb": "packs/en-meme/a97f45181c4e/thumbs/07.webp",
+     "name": "Sus",
+     "emoji": [
+      "👀"
+     ]
+    },
+    {
+     "file": "packs/en-meme/a97f45181c4e/08.webp",
+     "thumb": "packs/en-meme/a97f45181c4e/thumbs/08.webp",
+     "name": "Interesting",
+     "emoji": [
+      "🧐"
+     ]
+    },
+    {
+     "file": "packs/en-meme/a97f45181c4e/09.webp",
+     "thumb": "packs/en-meme/a97f45181c4e/thumbs/09.webp",
+     "name": "Drama",
+     "emoji": [
+      "🍿"
+     ]
+    },
+    {
+     "file": "packs/en-meme/a97f45181c4e/10.webp",
+     "thumb": "packs/en-meme/a97f45181c4e/thumbs/10.webp",
+     "name": "No cap",
+     "emoji": [
+      "🧢"
+     ]
+    },
+    {
+     "file": "packs/en-meme/a97f45181c4e/11.webp",
+     "thumb": "packs/en-meme/a97f45181c4e/thumbs/11.webp",
+     "name": "Big brain",
+     "emoji": [
+      "🧠"
+     ]
+    },
+    {
+     "file": "packs/en-meme/a97f45181c4e/12.webp",
+     "thumb": "packs/en-meme/a97f45181c4e/thumbs/12.webp",
+     "name": "Actually...",
+     "emoji": [
+      "🤓"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en-sassy",
+   "name": "Sassy",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "MEMES",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "languages": [
+    "en"
+   ],
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "added": "2026-11-17",
+   "version": "9f40b8d8d825",
+   "sizeBytes": 245234,
+   "tray": "packs/en-sassy/9f40b8d8d825/tray.png",
+   "stickers": [
+    {
+     "file": "packs/en-sassy/9f40b8d8d825/01.webp",
+     "thumb": "packs/en-sassy/9f40b8d8d825/thumbs/01.webp",
+     "name": "Oh really?",
+     "emoji": [
+      "😏"
+     ]
+    },
+    {
+     "file": "packs/en-sassy/9f40b8d8d825/02.webp",
+     "thumb": "packs/en-sassy/9f40b8d8d825/thumbs/02.webp",
+     "name": "Whatever",
+     "emoji": [
+      "🙄"
+     ]
+    },
+    {
+     "file": "packs/en-sassy/9f40b8d8d825/03.webp",
+     "thumb": "packs/en-sassy/9f40b8d8d825/thumbs/03.webp",
+     "name": "Unbothered",
+     "emoji": [
+      "💅"
+     ]
+    },
+    {
+     "file": "packs/en-sassy/9f40b8d8d825/04.webp",
+     "thumb": "packs/en-sassy/9f40b8d8d825/thumbs/04.webp",
+     "name": "Too cool",
+     "emoji": [
+      "😎"
+     ]
+    },
+    {
+     "file": "packs/en-sassy/9f40b8d8d825/05.webp",
+     "thumb": "packs/en-sassy/9f40b8d8d825/thumbs/05.webp",
+     "name": "Queen",
+     "emoji": [
+      "👑"
+     ]
+    },
+    {
+     "file": "packs/en-sassy/9f40b8d8d825/06.webp",
+     "thumb": "packs/en-sassy/9f40b8d8d825/thumbs/06.webp",
+     "name": "Seriously?",
+     "emoji": [
+      "😑"
+     ]
+    },
+    {
+     "file": "packs/en-sassy/9f40b8d8d825/07.webp",
+     "thumb": "packs/en-sassy/9f40b8d8d825/thumbs/07.webp",
+     "name": "Excuse me?",
+     "emoji": [
+      "🤨"
+     ]
+    },
+    {
+     "file": "packs/en-sassy/9f40b8d8d825/08.webp",
+     "thumb": "packs/en-sassy/9f40b8d8d825/thumbs/08.webp",
+     "name": "Not saying",
+     "emoji": [
+      "🤐"
+     ]
+    },
+    {
+     "file": "packs/en-sassy/9f40b8d8d825/09.webp",
+     "thumb": "packs/en-sassy/9f40b8d8d825/thumbs/09.webp",
+     "name": "Slay",
+     "emoji": [
+      "🔥"
+     ]
+    },
+    {
+     "file": "packs/en-sassy/9f40b8d8d825/10.webp",
+     "thumb": "packs/en-sassy/9f40b8d8d825/thumbs/10.webp",
+     "name": "Iconic",
+     "emoji": [
+      "✨"
+     ]
+    },
+    {
+     "file": "packs/en-sassy/9f40b8d8d825/11.webp",
+     "thumb": "packs/en-sassy/9f40b8d8d825/thumbs/11.webp",
+     "name": "Not impressed",
+     "emoji": [
+      "😒"
+     ]
+    }
+   ]
+  },
+  {
    "id": "pk-mausam",
    "name": "Mausam",
    "creator": "Sticker Maker",
@@ -2794,6 +4619,221 @@
      "name": "Kulfi Kha Lo",
      "emoji": [
       "🍨"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pk-sardi",
+   "name": "Sardi Aa Gayi",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "NATURE",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "languages": [
+    "ur",
+    "hi"
+   ],
+   "regions": [
+    "PK",
+    "IN"
+   ],
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "added": "2026-11-17",
+   "version": "7988a21c4a0c",
+   "sizeBytes": 207106,
+   "tray": "packs/pk-sardi/7988a21c4a0c/tray.png",
+   "stickers": [
+    {
+     "file": "packs/pk-sardi/7988a21c4a0c/01.webp",
+     "thumb": "packs/pk-sardi/7988a21c4a0c/thumbs/01.webp",
+     "name": "Sardi Aa Gayi",
+     "emoji": [
+      "❄️"
+     ]
+    },
+    {
+     "file": "packs/pk-sardi/7988a21c4a0c/02.webp",
+     "thumb": "packs/pk-sardi/7988a21c4a0c/thumbs/02.webp",
+     "name": "Garam Chai",
+     "emoji": [
+      "☕"
+     ]
+    },
+    {
+     "file": "packs/pk-sardi/7988a21c4a0c/03.webp",
+     "thumb": "packs/pk-sardi/7988a21c4a0c/thumbs/03.webp",
+     "name": "Thand Lag Rahi Hai",
+     "emoji": [
+      "🥶"
+     ]
+    },
+    {
+     "file": "packs/pk-sardi/7988a21c4a0c/04.webp",
+     "thumb": "packs/pk-sardi/7988a21c4a0c/thumbs/04.webp",
+     "name": "Shawl Lao",
+     "emoji": [
+      "🧣"
+     ]
+    },
+    {
+     "file": "packs/pk-sardi/7988a21c4a0c/05.webp",
+     "thumb": "packs/pk-sardi/7988a21c4a0c/thumbs/05.webp",
+     "name": "Moongphali Time",
+     "emoji": [
+      "🥜"
+     ]
+    },
+    {
+     "file": "packs/pk-sardi/7988a21c4a0c/06.webp",
+     "thumb": "packs/pk-sardi/7988a21c4a0c/thumbs/06.webp",
+     "name": "Aag Tapo",
+     "emoji": [
+      "🔥"
+     ]
+    },
+    {
+     "file": "packs/pk-sardi/7988a21c4a0c/07.webp",
+     "thumb": "packs/pk-sardi/7988a21c4a0c/thumbs/07.webp",
+     "name": "Razai Se Nahi Niklunga",
+     "emoji": [
+      "🛏️"
+     ]
+    },
+    {
+     "file": "packs/pk-sardi/7988a21c4a0c/08.webp",
+     "thumb": "packs/pk-sardi/7988a21c4a0c/thumbs/08.webp",
+     "name": "Zukaam Ho Gaya",
+     "emoji": [
+      "🤧"
+     ]
+    },
+    {
+     "file": "packs/pk-sardi/7988a21c4a0c/09.webp",
+     "thumb": "packs/pk-sardi/7988a21c4a0c/thumbs/09.webp",
+     "name": "Garam Soup",
+     "emoji": [
+      "🍜"
+     ]
+    },
+    {
+     "file": "packs/pk-sardi/7988a21c4a0c/10.webp",
+     "thumb": "packs/pk-sardi/7988a21c4a0c/thumbs/10.webp",
+     "name": "Haath Jam Gaye",
+     "emoji": [
+      "🧤"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en-winter",
+   "name": "Winter",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "NATURE",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "languages": [
+    "en"
+   ],
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "added": "2026-11-17",
+   "version": "ceac6b2dd193",
+   "sizeBytes": 213526,
+   "tray": "packs/en-winter/ceac6b2dd193/tray.png",
+   "stickers": [
+    {
+     "file": "packs/en-winter/ceac6b2dd193/01.webp",
+     "thumb": "packs/en-winter/ceac6b2dd193/thumbs/01.webp",
+     "name": "Brrr...",
+     "emoji": [
+      "❄️"
+     ]
+    },
+    {
+     "file": "packs/en-winter/ceac6b2dd193/02.webp",
+     "thumb": "packs/en-winter/ceac6b2dd193/thumbs/02.webp",
+     "name": "Snow day",
+     "emoji": [
+      "☃️"
+     ]
+    },
+    {
+     "file": "packs/en-winter/ceac6b2dd193/03.webp",
+     "thumb": "packs/en-winter/ceac6b2dd193/thumbs/03.webp",
+     "name": "Hot chocolate",
+     "emoji": [
+      "☕"
+     ]
+    },
+    {
+     "file": "packs/en-winter/ceac6b2dd193/04.webp",
+     "thumb": "packs/en-winter/ceac6b2dd193/thumbs/04.webp",
+     "name": "Freezing!",
+     "emoji": [
+      "🥶"
+     ]
+    },
+    {
+     "file": "packs/en-winter/ceac6b2dd193/05.webp",
+     "thumb": "packs/en-winter/ceac6b2dd193/thumbs/05.webp",
+     "name": "Bundle up",
+     "emoji": [
+      "🧣"
+     ]
+    },
+    {
+     "file": "packs/en-winter/ceac6b2dd193/06.webp",
+     "thumb": "packs/en-winter/ceac6b2dd193/thumbs/06.webp",
+     "name": "So cold",
+     "emoji": [
+      "🧤"
+     ]
+    },
+    {
+     "file": "packs/en-winter/ceac6b2dd193/07.webp",
+     "thumb": "packs/en-winter/ceac6b2dd193/thumbs/07.webp",
+     "name": "Holiday season",
+     "emoji": [
+      "🎄"
+     ]
+    },
+    {
+     "file": "packs/en-winter/ceac6b2dd193/08.webp",
+     "thumb": "packs/en-winter/ceac6b2dd193/thumbs/08.webp",
+     "name": "Cozy",
+     "emoji": [
+      "🔥"
+     ]
+    },
+    {
+     "file": "packs/en-winter/ceac6b2dd193/09.webp",
+     "thumb": "packs/en-winter/ceac6b2dd193/thumbs/09.webp",
+     "name": "Winter vibes",
+     "emoji": [
+      "🏔️"
+     ]
+    },
+    {
+     "file": "packs/en-winter/ceac6b2dd193/10.webp",
+     "thumb": "packs/en-winter/ceac6b2dd193/thumbs/10.webp",
+     "name": "Stay in bed",
+     "emoji": [
+      "🛏️"
+     ]
+    },
+    {
+     "file": "packs/en-winter/ceac6b2dd193/11.webp",
+     "thumb": "packs/en-winter/ceac6b2dd193/thumbs/11.webp",
+     "name": "Catching a cold",
+     "emoji": [
+      "🤧"
      ]
     }
    ]
@@ -3722,6 +5762,240 @@
    ]
   },
   {
+   "id": "en-study",
+   "name": "Study Mode",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "WORK",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "languages": [
+    "en"
+   ],
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "added": "2026-11-17",
+   "version": "619ac1cc7229",
+   "sizeBytes": 276028,
+   "tray": "packs/en-study/619ac1cc7229/tray.png",
+   "stickers": [
+    {
+     "file": "packs/en-study/619ac1cc7229/01.webp",
+     "thumb": "packs/en-study/619ac1cc7229/thumbs/01.webp",
+     "name": "Study mode",
+     "emoji": [
+      "📚"
+     ]
+    },
+    {
+     "file": "packs/en-study/619ac1cc7229/02.webp",
+     "thumb": "packs/en-study/619ac1cc7229/thumbs/02.webp",
+     "name": "Homework",
+     "emoji": [
+      "✏️"
+     ]
+    },
+    {
+     "file": "packs/en-study/619ac1cc7229/03.webp",
+     "thumb": "packs/en-study/619ac1cc7229/thumbs/03.webp",
+     "name": "Exam tomorrow",
+     "emoji": [
+      "😰"
+     ]
+    },
+    {
+     "file": "packs/en-study/619ac1cc7229/04.webp",
+     "thumb": "packs/en-study/619ac1cc7229/thumbs/04.webp",
+     "name": "Brain loading...",
+     "emoji": [
+      "🧠"
+     ]
+    },
+    {
+     "file": "packs/en-study/619ac1cc7229/05.webp",
+     "thumb": "packs/en-study/619ac1cc7229/thumbs/05.webp",
+     "name": "All-nighter",
+     "emoji": [
+      "☕"
+     ]
+    },
+    {
+     "file": "packs/en-study/619ac1cc7229/06.webp",
+     "thumb": "packs/en-study/619ac1cc7229/thumbs/06.webp",
+     "name": "Graduated!",
+     "emoji": [
+      "🎓"
+     ]
+    },
+    {
+     "file": "packs/en-study/619ac1cc7229/07.webp",
+     "thumb": "packs/en-study/619ac1cc7229/thumbs/07.webp",
+     "name": "Notes please?",
+     "emoji": [
+      "📝"
+     ]
+    },
+    {
+     "file": "packs/en-study/619ac1cc7229/08.webp",
+     "thumb": "packs/en-study/619ac1cc7229/thumbs/08.webp",
+     "name": "Full marks",
+     "emoji": [
+      "💯"
+     ]
+    },
+    {
+     "file": "packs/en-study/619ac1cc7229/09.webp",
+     "thumb": "packs/en-study/619ac1cc7229/thumbs/09.webp",
+     "name": "I failed",
+     "emoji": [
+      "😭"
+     ]
+    },
+    {
+     "file": "packs/en-study/619ac1cc7229/10.webp",
+     "thumb": "packs/en-study/619ac1cc7229/thumbs/10.webp",
+     "name": "Got an idea",
+     "emoji": [
+      "💡"
+     ]
+    },
+    {
+     "file": "packs/en-study/619ac1cc7229/11.webp",
+     "thumb": "packs/en-study/619ac1cc7229/thumbs/11.webp",
+     "name": "Online class",
+     "emoji": [
+      "💻"
+     ]
+    },
+    {
+     "file": "packs/en-study/619ac1cc7229/12.webp",
+     "thumb": "packs/en-study/619ac1cc7229/thumbs/12.webp",
+     "name": "So boring",
+     "emoji": [
+      "😴"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en-work",
+   "name": "Work & Study",
+   "creator": "Sticker Maker",
+   "description": "",
+   "category": "WORK",
+   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
+   "licence": "MIT",
+   "languages": [
+    "en"
+   ],
+   "animated": false,
+   "featured": true,
+   "rank": 1,
+   "added": "2026-11-15",
+   "version": "5e2dc626b09f",
+   "sizeBytes": 208184,
+   "tray": "packs/en-work/5e2dc626b09f/tray.png",
+   "stickers": [
+    {
+     "file": "packs/en-work/5e2dc626b09f/01.webp",
+     "thumb": "packs/en-work/5e2dc626b09f/thumbs/01.webp",
+     "name": "Working",
+     "emoji": [
+      "💻"
+     ]
+    },
+    {
+     "file": "packs/en-work/5e2dc626b09f/02.webp",
+     "thumb": "packs/en-work/5e2dc626b09f/thumbs/02.webp",
+     "name": "Need coffee",
+     "emoji": [
+      "☕"
+     ]
+    },
+    {
+     "file": "packs/en-work/5e2dc626b09f/03.webp",
+     "thumb": "packs/en-work/5e2dc626b09f/thumbs/03.webp",
+     "name": "Meeting",
+     "emoji": [
+      "🗓️"
+     ]
+    },
+    {
+     "file": "packs/en-work/5e2dc626b09f/04.webp",
+     "thumb": "packs/en-work/5e2dc626b09f/thumbs/04.webp",
+     "name": "Running late",
+     "emoji": [
+      "⏰"
+     ]
+    },
+    {
+     "file": "packs/en-work/5e2dc626b09f/05.webp",
+     "thumb": "packs/en-work/5e2dc626b09f/thumbs/05.webp",
+     "name": "Studying",
+     "emoji": [
+      "📚"
+     ]
+    },
+    {
+     "file": "packs/en-work/5e2dc626b09f/06.webp",
+     "thumb": "packs/en-work/5e2dc626b09f/thumbs/06.webp",
+     "name": "Notes",
+     "emoji": [
+      "📝"
+     ]
+    },
+    {
+     "file": "packs/en-work/5e2dc626b09f/07.webp",
+     "thumb": "packs/en-work/5e2dc626b09f/thumbs/07.webp",
+     "name": "Weekend!",
+     "emoji": [
+      "🎉"
+     ]
+    },
+    {
+     "file": "packs/en-work/5e2dc626b09f/08.webp",
+     "thumb": "packs/en-work/5e2dc626b09f/thumbs/08.webp",
+     "name": "Monday...",
+     "emoji": [
+      "😴"
+     ]
+    },
+    {
+     "file": "packs/en-work/5e2dc626b09f/09.webp",
+     "thumb": "packs/en-work/5e2dc626b09f/thumbs/09.webp",
+     "name": "Thinking",
+     "emoji": [
+      "🧠"
+     ]
+    },
+    {
+     "file": "packs/en-work/5e2dc626b09f/10.webp",
+     "thumb": "packs/en-work/5e2dc626b09f/thumbs/10.webp",
+     "name": "Let us go!",
+     "emoji": [
+      "🚀"
+     ]
+    },
+    {
+     "file": "packs/en-work/5e2dc626b09f/11.webp",
+     "thumb": "packs/en-work/5e2dc626b09f/thumbs/11.webp",
+     "name": "Done!",
+     "emoji": [
+      "✅"
+     ]
+    },
+    {
+     "file": "packs/en-work/5e2dc626b09f/12.webp",
+     "thumb": "packs/en-work/5e2dc626b09f/thumbs/12.webp",
+     "name": "Wait",
+     "emoji": [
+      "⌛"
+     ]
+    }
+   ]
+  },
+  {
    "id": "fluent-animals",
    "name": "Cute Animals",
    "creator": "Sticker Maker",
@@ -4171,107 +6445,6 @@
     }
    ],
    "added": "2026-10-01"
-  },
-  {
-   "id": "en-holidays",
-   "name": "Holidays",
-   "creator": "Sticker Maker",
-   "description": "",
-   "category": "FESTIVALS",
-   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
-   "licence": "MIT",
-   "languages": [
-    "en"
-   ],
-   "animated": false,
-   "featured": false,
-   "rank": 2,
-   "added": "2026-11-15",
-   "version": "473b95b0c8ac",
-   "sizeBytes": 210770,
-   "tray": "packs/en-holidays/473b95b0c8ac/tray.png",
-   "stickers": [
-    {
-     "file": "packs/en-holidays/473b95b0c8ac/01.webp",
-     "thumb": "packs/en-holidays/473b95b0c8ac/thumbs/01.webp",
-     "name": "Merry Christmas",
-     "emoji": [
-      "🎄"
-     ]
-    },
-    {
-     "file": "packs/en-holidays/473b95b0c8ac/02.webp",
-     "thumb": "packs/en-holidays/473b95b0c8ac/thumbs/02.webp",
-     "name": "Ho Ho Ho",
-     "emoji": [
-      "🎅"
-     ]
-    },
-    {
-     "file": "packs/en-holidays/473b95b0c8ac/03.webp",
-     "thumb": "packs/en-holidays/473b95b0c8ac/thumbs/03.webp",
-     "name": "Happy New Year",
-     "emoji": [
-      "🎆"
-     ]
-    },
-    {
-     "file": "packs/en-holidays/473b95b0c8ac/04.webp",
-     "thumb": "packs/en-holidays/473b95b0c8ac/thumbs/04.webp",
-     "name": "Happy Halloween",
-     "emoji": [
-      "🎃"
-     ]
-    },
-    {
-     "file": "packs/en-holidays/473b95b0c8ac/05.webp",
-     "thumb": "packs/en-holidays/473b95b0c8ac/thumbs/05.webp",
-     "name": "Happy Diwali",
-     "emoji": [
-      "🪔"
-     ]
-    },
-    {
-     "file": "packs/en-holidays/473b95b0c8ac/06.webp",
-     "thumb": "packs/en-holidays/473b95b0c8ac/thumbs/06.webp",
-     "name": "Eid Mubarak",
-     "emoji": [
-      "🌙"
-     ]
-    },
-    {
-     "file": "packs/en-holidays/473b95b0c8ac/07.webp",
-     "thumb": "packs/en-holidays/473b95b0c8ac/thumbs/07.webp",
-     "name": "Happy Lunar New Year",
-     "emoji": [
-      "🧧"
-     ]
-    },
-    {
-     "file": "packs/en-holidays/473b95b0c8ac/08.webp",
-     "thumb": "packs/en-holidays/473b95b0c8ac/thumbs/08.webp",
-     "name": "Happy Easter",
-     "emoji": [
-      "🐰"
-     ]
-    },
-    {
-     "file": "packs/en-holidays/473b95b0c8ac/09.webp",
-     "thumb": "packs/en-holidays/473b95b0c8ac/thumbs/09.webp",
-     "name": "Let it snow",
-     "emoji": [
-      "☃️"
-     ]
-    },
-    {
-     "file": "packs/en-holidays/473b95b0c8ac/10.webp",
-     "thumb": "packs/en-holidays/473b95b0c8ac/thumbs/10.webp",
-     "name": "Happy Holidays",
-     "emoji": [
-      "🎉"
-     ]
-    }
-   ]
   },
   {
    "id": "fluent-food",
@@ -4886,123 +7059,6 @@
    "added": "2026-10-01"
   },
   {
-   "id": "en-moods",
-   "name": "Moods",
-   "creator": "Sticker Maker",
-   "description": "",
-   "category": "HAPPY",
-   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
-   "licence": "MIT",
-   "languages": [
-    "en"
-   ],
-   "animated": false,
-   "featured": false,
-   "rank": 2,
-   "added": "2026-11-15",
-   "version": "f4db08397141",
-   "sizeBytes": 241532,
-   "tray": "packs/en-moods/f4db08397141/tray.png",
-   "stickers": [
-    {
-     "file": "packs/en-moods/f4db08397141/01.webp",
-     "thumb": "packs/en-moods/f4db08397141/thumbs/01.webp",
-     "name": "Cool",
-     "emoji": [
-      "😎"
-     ]
-    },
-    {
-     "file": "packs/en-moods/f4db08397141/02.webp",
-     "thumb": "packs/en-moods/f4db08397141/thumbs/02.webp",
-     "name": "Angry!",
-     "emoji": [
-      "😡"
-     ]
-    },
-    {
-     "file": "packs/en-moods/f4db08397141/03.webp",
-     "thumb": "packs/en-moods/f4db08397141/thumbs/03.webp",
-     "name": "So sad",
-     "emoji": [
-      "😭"
-     ]
-    },
-    {
-     "file": "packs/en-moods/f4db08397141/04.webp",
-     "thumb": "packs/en-moods/f4db08397141/thumbs/04.webp",
-     "name": "Tired",
-     "emoji": [
-      "😴"
-     ]
-    },
-    {
-     "file": "packs/en-moods/f4db08397141/05.webp",
-     "thumb": "packs/en-moods/f4db08397141/thumbs/05.webp",
-     "name": "Mind blown",
-     "emoji": [
-      "🤯"
-     ]
-    },
-    {
-     "file": "packs/en-moods/f4db08397141/06.webp",
-     "thumb": "packs/en-moods/f4db08397141/thumbs/06.webp",
-     "name": "OMG",
-     "emoji": [
-      "😱"
-     ]
-    },
-    {
-     "file": "packs/en-moods/f4db08397141/07.webp",
-     "thumb": "packs/en-moods/f4db08397141/thumbs/07.webp",
-     "name": "Yay!",
-     "emoji": [
-      "🥳"
-     ]
-    },
-    {
-     "file": "packs/en-moods/f4db08397141/08.webp",
-     "thumb": "packs/en-moods/f4db08397141/thumbs/08.webp",
-     "name": "Meh",
-     "emoji": [
-      "😐"
-     ]
-    },
-    {
-     "file": "packs/en-moods/f4db08397141/09.webp",
-     "thumb": "packs/en-moods/f4db08397141/thumbs/09.webp",
-     "name": "Crazy",
-     "emoji": [
-      "🤪"
-     ]
-    },
-    {
-     "file": "packs/en-moods/f4db08397141/10.webp",
-     "thumb": "packs/en-moods/f4db08397141/thumbs/10.webp",
-     "name": "Dizzy",
-     "emoji": [
-      "🥴"
-     ]
-    },
-    {
-     "file": "packs/en-moods/f4db08397141/11.webp",
-     "thumb": "packs/en-moods/f4db08397141/thumbs/11.webp",
-     "name": "So hot",
-     "emoji": [
-      "🥵"
-     ]
-    },
-    {
-     "file": "packs/en-moods/f4db08397141/12.webp",
-     "thumb": "packs/en-moods/f4db08397141/thumbs/12.webp",
-     "name": "Freezing",
-     "emoji": [
-      "🥶"
-     ]
-    }
-   ]
-  },
-  {
    "id": "fluent-love",
    "name": "Love & Hearts",
    "creator": "Sticker Maker",
@@ -5162,123 +7218,6 @@
     }
    ],
    "added": "2026-10-01"
-  },
-  {
-   "id": "en-meme",
-   "name": "Meme Words",
-   "creator": "Sticker Maker",
-   "description": "",
-   "category": "MEMES",
-   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
-   "licence": "MIT",
-   "languages": [
-    "en"
-   ],
-   "animated": false,
-   "featured": false,
-   "rank": 2,
-   "added": "2026-11-15",
-   "version": "a97f45181c4e",
-   "sizeBytes": 228360,
-   "tray": "packs/en-meme/a97f45181c4e/tray.png",
-   "stickers": [
-    {
-     "file": "packs/en-meme/a97f45181c4e/01.webp",
-     "thumb": "packs/en-meme/a97f45181c4e/thumbs/01.webp",
-     "name": "Bruh",
-     "emoji": [
-      "😂"
-     ]
-    },
-    {
-     "file": "packs/en-meme/a97f45181c4e/02.webp",
-     "thumb": "packs/en-meme/a97f45181c4e/thumbs/02.webp",
-     "name": "Clown",
-     "emoji": [
-      "🤡"
-     ]
-    },
-    {
-     "file": "packs/en-meme/a97f45181c4e/03.webp",
-     "thumb": "packs/en-meme/a97f45181c4e/thumbs/03.webp",
-     "name": "Dead",
-     "emoji": [
-      "💀"
-     ]
-    },
-    {
-     "file": "packs/en-meme/a97f45181c4e/04.webp",
-     "thumb": "packs/en-meme/a97f45181c4e/thumbs/04.webp",
-     "name": "GOAT",
-     "emoji": [
-      "🐐"
-     ]
-    },
-    {
-     "file": "packs/en-meme/a97f45181c4e/05.webp",
-     "thumb": "packs/en-meme/a97f45181c4e/thumbs/05.webp",
-     "name": "Fire!",
-     "emoji": [
-      "🔥"
-     ]
-    },
-    {
-     "file": "packs/en-meme/a97f45181c4e/06.webp",
-     "thumb": "packs/en-meme/a97f45181c4e/thumbs/06.webp",
-     "name": "100%",
-     "emoji": [
-      "💯"
-     ]
-    },
-    {
-     "file": "packs/en-meme/a97f45181c4e/07.webp",
-     "thumb": "packs/en-meme/a97f45181c4e/thumbs/07.webp",
-     "name": "Sus",
-     "emoji": [
-      "👀"
-     ]
-    },
-    {
-     "file": "packs/en-meme/a97f45181c4e/08.webp",
-     "thumb": "packs/en-meme/a97f45181c4e/thumbs/08.webp",
-     "name": "Interesting",
-     "emoji": [
-      "🧐"
-     ]
-    },
-    {
-     "file": "packs/en-meme/a97f45181c4e/09.webp",
-     "thumb": "packs/en-meme/a97f45181c4e/thumbs/09.webp",
-     "name": "Drama",
-     "emoji": [
-      "🍿"
-     ]
-    },
-    {
-     "file": "packs/en-meme/a97f45181c4e/10.webp",
-     "thumb": "packs/en-meme/a97f45181c4e/thumbs/10.webp",
-     "name": "No cap",
-     "emoji": [
-      "🧢"
-     ]
-    },
-    {
-     "file": "packs/en-meme/a97f45181c4e/11.webp",
-     "thumb": "packs/en-meme/a97f45181c4e/thumbs/11.webp",
-     "name": "Big brain",
-     "emoji": [
-      "🧠"
-     ]
-    },
-    {
-     "file": "packs/en-meme/a97f45181c4e/12.webp",
-     "thumb": "packs/en-meme/a97f45181c4e/thumbs/12.webp",
-     "name": "Actually...",
-     "emoji": [
-      "🤓"
-     ]
-    }
-   ]
   },
   {
    "id": "fluent-reactions",
@@ -5714,123 +7653,6 @@
     }
    ],
    "added": "2026-10-01"
-  },
-  {
-   "id": "en-work",
-   "name": "Work & Study",
-   "creator": "Sticker Maker",
-   "description": "",
-   "category": "WORK",
-   "credit": "Sticker Maker originals · art: Fluent Emoji by Microsoft (MIT licence)",
-   "licence": "MIT",
-   "languages": [
-    "en"
-   ],
-   "animated": false,
-   "featured": false,
-   "rank": 2,
-   "added": "2026-11-15",
-   "version": "5e2dc626b09f",
-   "sizeBytes": 208184,
-   "tray": "packs/en-work/5e2dc626b09f/tray.png",
-   "stickers": [
-    {
-     "file": "packs/en-work/5e2dc626b09f/01.webp",
-     "thumb": "packs/en-work/5e2dc626b09f/thumbs/01.webp",
-     "name": "Working",
-     "emoji": [
-      "💻"
-     ]
-    },
-    {
-     "file": "packs/en-work/5e2dc626b09f/02.webp",
-     "thumb": "packs/en-work/5e2dc626b09f/thumbs/02.webp",
-     "name": "Need coffee",
-     "emoji": [
-      "☕"
-     ]
-    },
-    {
-     "file": "packs/en-work/5e2dc626b09f/03.webp",
-     "thumb": "packs/en-work/5e2dc626b09f/thumbs/03.webp",
-     "name": "Meeting",
-     "emoji": [
-      "🗓️"
-     ]
-    },
-    {
-     "file": "packs/en-work/5e2dc626b09f/04.webp",
-     "thumb": "packs/en-work/5e2dc626b09f/thumbs/04.webp",
-     "name": "Running late",
-     "emoji": [
-      "⏰"
-     ]
-    },
-    {
-     "file": "packs/en-work/5e2dc626b09f/05.webp",
-     "thumb": "packs/en-work/5e2dc626b09f/thumbs/05.webp",
-     "name": "Studying",
-     "emoji": [
-      "📚"
-     ]
-    },
-    {
-     "file": "packs/en-work/5e2dc626b09f/06.webp",
-     "thumb": "packs/en-work/5e2dc626b09f/thumbs/06.webp",
-     "name": "Notes",
-     "emoji": [
-      "📝"
-     ]
-    },
-    {
-     "file": "packs/en-work/5e2dc626b09f/07.webp",
-     "thumb": "packs/en-work/5e2dc626b09f/thumbs/07.webp",
-     "name": "Weekend!",
-     "emoji": [
-      "🎉"
-     ]
-    },
-    {
-     "file": "packs/en-work/5e2dc626b09f/08.webp",
-     "thumb": "packs/en-work/5e2dc626b09f/thumbs/08.webp",
-     "name": "Monday...",
-     "emoji": [
-      "😴"
-     ]
-    },
-    {
-     "file": "packs/en-work/5e2dc626b09f/09.webp",
-     "thumb": "packs/en-work/5e2dc626b09f/thumbs/09.webp",
-     "name": "Thinking",
-     "emoji": [
-      "🧠"
-     ]
-    },
-    {
-     "file": "packs/en-work/5e2dc626b09f/10.webp",
-     "thumb": "packs/en-work/5e2dc626b09f/thumbs/10.webp",
-     "name": "Let us go!",
-     "emoji": [
-      "🚀"
-     ]
-    },
-    {
-     "file": "packs/en-work/5e2dc626b09f/11.webp",
-     "thumb": "packs/en-work/5e2dc626b09f/thumbs/11.webp",
-     "name": "Done!",
-     "emoji": [
-      "✅"
-     ]
-    },
-    {
-     "file": "packs/en-work/5e2dc626b09f/12.webp",
-     "thumb": "packs/en-work/5e2dc626b09f/thumbs/12.webp",
-     "name": "Wait",
-     "emoji": [
-      "⌛"
-     ]
-    }
-   ]
   },
   {
    "id": "fluent-work",
